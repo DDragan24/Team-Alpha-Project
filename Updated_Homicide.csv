@@ -1,0 +1,842 @@
+,CRIME_REPORT_ID,AGE,GENDER,RACE_ETHNICITY,CLEARANCE_STATUS,WEAPON,LOCATION,CMPD_PATROL_DIVISION,CIRCUMSTANCES,DATE
+0,20240602-0304-02,18.0,Male,Hispanic,Open,Handgun,1000 ECHO GLEN RD,North Tryon,Other/Unknown,6-2024
+1,20240602-0146-03,39.0,Male,Black,Open,Firearm,100 TOM HUNTER RD,North Tryon,Argument,6-2024
+2,20240527-2245-03,54.0,Male,Hispanic,Open,Firearm,100 KINGSFORD DR,Steele Creek,Other/Unknown,5-2024
+3,20240526-0503-02,23.0,Male,Hispanic,Cleared by Arrest by Another Agency,Handgun,6100 WINGED ELM CT,Independence,Argument,5-2024
+4,20240522-1643-01,14.0,Male,Black,Cleared by Arrest,Handgun,200 ANN ELIZABETH DR,North Tryon,Argument,5-2024
+5,20240522-0058-00,,Male,Black,Open,Firearm,7500 N TRYON ST,University City,Other/Unknown,5-2024
+6,20240521-1032-03,,Male,Other/Unknown,Exceptionally Cleared,Handgun,8600 HANKINS RD,North,Domestic,5-2024
+7,20240512-0449-00,,Male,Hispanic,Open,Handgun,2200 KILBORNE DR,Eastway,Argument,5-2024
+8,20240505-1752-04,51.0,Male,Black,Open,Handgun,9600 ALBEMARLE RD,Hickory Grove,Argument,5-2024
+9,20240502-2244-01,26.0,Male,Black,Open,Handgun,5100 HOOVER DR,North,Argument,5-2024
+10,20240429-1333-99,,,,Open,,5500 GALWAY DR,North Tryon,,4-2024
+11,20240429-1333-00,42.0,Unknown,Other/Unknown,Exceptionally Cleared,Rifle,5500 GALWAY DR,North Tryon,Other/Unknown,4-2024
+12,20240429-1333-00,48.0,Unknown,Other/Unknown,Exceptionally Cleared,Rifle,5500 GALWAY DR,North Tryon,Other/Unknown,4-2024
+13,20240429-1333-00,31.0,Unknown,Other/Unknown,Exceptionally Cleared,Rifle,5500 GALWAY DR,North Tryon,Other/Unknown,4-2024
+14,20240429-1333-00,46.0,Unknown,Other/Unknown,Exceptionally Cleared,Rifle,5500 GALWAY DR,North Tryon,Other/Unknown,4-2024
+15,20240428-0229-01,21.0,Male,White,Cleared by Arrest by Another Agency,Handgun,7800 DOUGLAS DR,Steele Creek,Domestic,4-2024
+16,20240419-0308-00,45.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,4800 S TRYON ST,Westover,Domestic,4-2024
+17,20240412-1841-01,17.0,Male,Black,Cleared by Arrest,Handgun,7500 BOSWELL RD,Hickory Grove,Drugs,4-2024
+18,20240412-1703-02,21.0,Male,Hispanic,Open,Handgun,8000 HOLLY HILL RD,Hickory Grove,Other/Unknown,4-2024
+19,20240411-0108-01,37.0,Male,Black,Open,Handgun,1400 FONTANA AV,Metro,Other/Unknown,4-2024
+20,20240407-1859-03,21.0,Male,Hispanic,Open,Handgun,2600 DRUID HILLS WY,Metro,Other/Unknown,4-2024
+21,20240403-2040-00,31.0,Male,Black,Open,Physical,3000 FORESTBROOK DR,Freedom,Argument,4-2024
+22,20240331-1627-00,25.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,9600 UNIVERSITY CITY BV,University City,Drugs,3-2024
+23,20240329-1421-03,17.0,Male,Black,Cleared by Arrest,Handgun,200 N HOSKINS RD,Freedom,Robbery,3-2024
+24,20240328-2306-01,38.0,Male,Black,Open,Handgun,500 BLENDWOOD DR,North Tryon,Other/Unknown,3-2024
+25,20240328-2246-01,26.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,7400 BLYTHWOOD LN,Independence,Argument,3-2024
+26,20240326-0520-03,36.0,Male,Black,Open,Firearm,2300 TODDVILLE RD,Freedom,Robbery,3-2024
+27,20240322-0203-02,44.0,Male,Black,Open,Handgun,100 N CRIGLER ST,Freedom,Other/Unknown,3-2024
+28,20240321-1837-00,53.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,8000 SCOTTVIEW DR,Freedom,Domestic,3-2024
+29,20240317-0508-02,31.0,Male,Black,Open,Handgun,300 BRADFORD DR,Freedom,Argument,3-2024
+30,20240317-0508-01,26.0,Female,Black,Cleared by Arrest by Another Agency,Handgun,4300 SUNSET RD,North,Argument,3-2024
+31,20240316-0339-04,58.0,Male,Black,Open,Vehicle,3800 BROOKSHIRE BV,Freedom,Other/Unknown,3-2024
+32,20240315-1439-02,0.0,Male,Black,Cleared by Arrest by Another Agency,,400 ORCHARD TRACE LN,North Tryon,Domestic,3-2024
+33,20240315-1439-02,22.0,Female,Black,Cleared by Arrest by Another Agency,,400 ORCHARD TRACE LN,North Tryon,Domestic,3-2024
+34,20240315-1439-02,4.0,Female,Black,Cleared by Arrest by Another Agency,,400 ORCHARD TRACE LN,North Tryon,Domestic,3-2024
+35,20240314-1354-00,20.0,Male,Black,Open,Handgun,4500 TANAGER PARK DR,North,Drugs,3-2024
+36,20240312-1202-00,23.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,11600 RED HICKORY LN,Steele Creek,Other/Unknown,3-2024
+37,20240309-1928-01,21.0,Male,Black,Cleared by Arrest,Firearm,400 FAIRWOOD AV,Westover,Robbery,3-2024
+38,20240304-0601-00,46.0,Female,White,Cleared by Arrest,Knife,400 N TRYON ST,Central,Argument,3-2024
+39,20240301-1832-02,,Male,Black,Exceptionally Cleared,Firearm,8100 OLD MALLARD CREEK RD,University City,Drugs,3-2024
+40,20240229-0842-01,24.0,Male,White,Open,Handgun,1400 W TRADE ST,Metro,Other/Unknown,2-2024
+41,20240215-0023-00,24.0,Male,Black,Cleared by Arrest,Handgun,3800 WILKINSON BV,Freedom,Other/Unknown,2-2024
+42,20240214-2149-01,32.0,Female,White,Cleared by Arrest by Another Agency,Handgun,13900 CASTLE NOOK DR,Steele Creek,Other/Unknown,2-2024
+43,20240214-1434-00,21.0,Male,Black,Cleared by Arrest,Rifle,2500 LITTLE ROCK RD,Freedom,Other/Unknown,2-2024
+44,20240213-1218-00,39.0,Male,Black,Exceptionally Cleared,Firearm,8800 CAMDEN CREEK LN,Steele Creek,Other/Unknown,2-2024
+45,20240211-0112-04,26.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,4500 SOUTH BV,Westover,Argument,2-2024
+46,20240204-2341-03,47.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,3500 ODUM AV,Metro,Argument,2-2024
+47,20240201-0335-01,21.0,Female,Hispanic,Open,Physical,8400 STRIDER DR,Independence,Domestic,2-2024
+48,20240201-0112-03,17.0,Male,Black,Cleared by Arrest,Firearm,1100 MAYFIELD TERRACE DR,Metro,Other/Unknown,2-2024
+49,20240127-0308-00,25.0,Male,Black,Exceptionally Cleared,"Handgun, Rifle",8500 LODGE SOUTH CR,Steele Creek,Argument,1-2024
+50,20240127-0308-00,26.0,Male,Hispanic,Exceptionally Cleared,"Handgun, Rifle",8500 LODGE SOUTH CR,Steele Creek,Argument,1-2024
+51,20240127-0308-00,32.0,Male,Black,Exceptionally Cleared,"Handgun, Rifle",8500 LODGE SOUTH CR,Steele Creek,Argument,1-2024
+52,20240125-2239-00,21.0,Female,Hispanic,Cleared by Arrest by Another Agency,Handgun,1100 LAKEMIST DR,Steele Creek,Argument,1-2024
+53,20240119-0554-00,26.0,Female,Hispanic,Open,Handgun,7900 TURQUOISE DR,Hickory Grove,Robbery,1-2024
+54,20240116-1438-00,17.0,Male,Black,Cleared by Arrest,Firearm,1200 EASTWAY DR,North Tryon,Other/Unknown,1-2024
+55,20240104-1916-00,54.0,Male,Black,Cleared by Arrest,Physical,5200 SWEARNGAN RD,North,Argument,1-2024
+56,20231227-0916-01,16.0,Female,Black,Open,Handgun,4400 MERLANE DR,North Tryon,Other/Unknown,12-2023
+57,20231227-0232-00,17.0,Male,Black,Open,Firearm,16200 LONG TALON WY,Steele Creek,Other/Unknown,12-2023
+58,20231224-1045-01,40.0,Male,Black,Open,Firearm,1600 FLAGLER LN,North,Other/Unknown,12-2023
+59,20231223-1110-01,19.0,Female,Hispanic,Open,Knife,6400 HERMSLEY RD,Steele Creek,Domestic,12-2023
+60,20231219-0149-03,,Male,Hispanic,Open,Handgun,3900 W TYVOLA RD,Westover,Other/Unknown,12-2023
+61,20231216-0907-00,,,,Open,,1500 CATHERINE SIMMONS AV,Metro,,12-2023
+62,20231215-2235-04,18.0,Male,Black,Open,Handgun,5600 PACES GLEN AV,Independence,Robbery,12-2023
+63,20231212-2116-01,36.0,Female,White,Exceptionally Cleared,Handgun,4000 MEADOWRIDGE DR,South,Argument,12-2023
+64,20231209-0208-00,52.0,Male,Black,Cleared by Arrest,Firearm,2200 CAMP GREENE ST,Metro,Argument,12-2023
+65,20231203-1934-01,,,,Open,,7100 SNOW LN,Independence,,12-2023
+66,20231120-0417-02,32.0,Male,Black,Cleared by Arrest,Handgun,1500 W ARROWOOD RD,Steele Creek,Argument,11-2023
+67,20231120-0013-04,21.0,Male,Black,Open,Handgun,2600 MAYFAIR AV,Westover,Other/Unknown,11-2023
+68,20231117-0926-02,41.0,Male,White,Open,Unknown,8900 S TRYON ST,Steele Creek,Other/Unknown,11-2023
+69,20231116-2351-02,25.0,Male,Black,Cleared by Arrest,Handgun,800 VILLA CT,Providence,Other/Unknown,11-2023
+70,20231113-1653-00,34.0,Female,Black,Cleared by Arrest,Handgun,1100 W SUGAR CREEK RD,North Tryon,Drugs,11-2023
+71,20231112-0218-01,26.0,Male,Black,Open,Handgun,800 SEIGLE AV,Eastway,Argument,11-2023
+72,20231031-2209-02,22.0,Male,Black,Open,Firearm,1000 EAGLEWOOD AV,Independence,Other/Unknown,10-2023
+73,20231029-0301-00,19.0,Male,Black,Open,Firearm,5000 ACORN FOREST LN,North,Other/Unknown,10-2023
+74,20231024-2344-00,19.0,Male,Black,Cleared by Arrest,Handgun,2600 BEATTIES FORD RD,Metro,Gang,10-2023
+75,20231024-2344-00,27.0,Male,Black,Cleared by Arrest,Handgun,2600 BEATTIES FORD RD,Metro,Gang,10-2023
+76,20231019-1433-03,20.0,Male,Black,Cleared by Arrest,Handgun,5200 N SHARON AMITY RD,Hickory Grove,Argument,10-2023
+77,20231015-1324-00,54.0,Male,Black,Cleared by Arrest,Handgun,3300 MAGNOLIA HILL DR,Eastway,Argument,10-2023
+78,20231011-0455-00,34.0,Male,Black,Cleared by Arrest,Handgun,6600 WENDA PL,Independence,Robbery,10-2023
+79,20231010-2201-04,22.0,Male,Black,Cleared by Arrest,Handgun,1900 PAVILION BV,University City,Argument,10-2023
+80,20231007-2112-02,30.0,Male,Black,Cleared by Arrest,"Handgun, Rifle",2900 BALTIMORE AV,Westover,Other/Unknown,10-2023
+81,20231007-1738-00,21.0,Female,Black,Cleared by Arrest,Handgun,10500 PARK CROSSING DR,South,Domestic,10-2023
+82,20231006-1731-01,19.0,Male,Black,Cleared by Arrest,Handgun,3700 W W T HARRIS BV,University City,Argument,10-2023
+83,20230924-2209-01,24.0,Male,Black,Exceptionally Cleared,Handgun,13700 MALLARD CREEK RD,University City,Argument,9-2023
+84,20230924-1757-00,18.0,Male,Black,Open,Handgun,2500 EDDINGTON ST,Westover,Robbery,9-2023
+85,20230921-0538-01,24.0,Male,Black,Open,Handgun,100 PARK FAIRFAX DR,Freedom,Gang,9-2023
+86,20230912-1508-02,56.0,Male,Black,Cleared by Arrest,Handgun,700 W 9TH ST,Central,Drugs,9-2023
+87,20230909-0634-00,46.0,Male,Black,Cleared by Arrest,Firearm,900 MORETZ AV,Metro,Argument,9-2023
+88,20230909-0117-01,24.0,Male,Hispanic,Open,Handgun,2000 PROSPECT DR,North Tryon,Argument,9-2023
+89,20230902-0554-00,64.0,Female,Black,Open,Handgun,200 ORCHARD TRACE LN,North Tryon,Robbery,9-2023
+90,20230824-2052-01,27.0,Male,Hispanic,Open,Handgun,7600 SHARON LAKES RD,Steele Creek,Other/Unknown,8-2023
+91,20230806-2209-02,33.0,Female,Black,Cleared by Arrest,Vehicle,6600 PINEVILLE-MATTHEWS RD,South,Other/Unknown,8-2023
+92,20230805-1923-02,17.0,Male,Hispanic,Cleared by Arrest,Vehicle,2000 W ARROWOOD RD,Steele Creek,Other/Unknown,8-2023
+93,20230805-1454-01,40.0,Male,Hispanic,Cleared by Arrest,Handgun,3700 TIPPERARY PL,North Tryon,Domestic,8-2023
+94,20230805-0109-01,63.0,Female,Black,Open,Firearm,600 BELMEADE DR,Freedom,Other/Unknown,8-2023
+95,20230727-0218-00,26.0,Male,Black,Cleared by Arrest,Handgun,8400 HOOD RD,Hickory Grove,Other/Unknown,7-2023
+96,20230723-1444-01,25.0,Male,Black,Cleared by Arrest,Handgun,5700 UNIVERSITY POINTE BV,University City,Drugs,7-2023
+97,20230718-0521-02,25.0,Female,Black,Cleared by Arrest,Handgun,500 PORTER ST,Freedom,Argument,7-2023
+98,20230717-2141-02,40.0,Male,Hispanic,Cleared by Arrest,Firearm,5600 PACES GLEN AV,Independence,Drugs,7-2023
+99,20230708-2024-02,35.0,Male,Black,Cleared by Arrest,Handgun,8200 N TRYON ST,University City,Argument,7-2023
+100,20230708-1845-01,17.0,Male,Black,Cleared by Arrest,Firearm,2400 TURTLE POINT RD,University City,Robbery,7-2023
+101,20230708-1659-00,19.0,Male,Black,Cleared by Arrest,Handgun,300 EASTWAY DR,North Tryon,Robbery,7-2023
+102,20230707-1054-01,44.0,Female,Black,Cleared by Arrest,Handgun,3800 FOXFORD PL,North Tryon,Domestic,7-2023
+103,20230624-0354-00,63.0,Female,White,Open,Rifle,1100 NATIONS DR,Steele Creek,Other/Unknown,6-2023
+104,20230620-1153-02,32.0,Male,Black,Open,Firearm,9800 ARTHUR DAVIS RD,North,Other/Unknown,6-2023
+105,20230617-0207-02,33.0,Male,Black,Cleared by Arrest,Handgun,6400 E INDEPENDENCE BV,Independence,Argument,6-2023
+106,20230615-2333-01,12.0,Male,Black,Cleared by Arrest,Blunt Trauma,5600 SUNWALK CT,North,Domestic,6-2023
+107,20230614-1411-01,21.0,Male,Black,Cleared by Arrest,Firearm,2900 MT HOLLY-HUNTERSVILLE RD,North,Argument,6-2023
+108,20230611-2147-02,36.0,Male,Black,Cleared by Arrest,Firearm,2600 SOUTHWEST BV,Metro,Argument,6-2023
+109,20230611-0429-01,29.0,Male,Black,Cleared by Arrest,Firearm,12600 ATKINS CIRCLE DR,South,Argument,6-2023
+110,20230610-1219-02,33.0,Male,Black,Cleared by Arrest,Firearm,500 PEPPERVINE LN,Steele Creek,Argument,6-2023
+111,20230605-1935-04,31.0,Male,Black,Cleared by Arrest,Handgun,2200 PRESTIGIOUS LN,University City,Robbery,6-2023
+112,20230601-0238-00,26.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,300 N BREVARD ST,Central,Argument,6-2023
+113,20230527-0118-01,26.0,Male,Black,Cleared by Arrest,Handgun,500 W 3RD ST,Central,Other/Unknown,5-2023
+114,20230519-0926-02,54.0,Male,Black,Open,Handgun,2400 JULIA AV,Metro,Other/Unknown,5-2023
+115,20230518-1745-01,17.0,Male,Black,Cleared by Arrest,Handgun,7300 LARWILL LN,North,Other/Unknown,5-2023
+116,20230515-0100-01,24.0,Male,Hispanic,Cleared by Arrest by Another Agency,Firearm,2100 MILTON RD,North Tryon,Argument,5-2023
+117,20230513-0116-02,38.0,Male,White,Cleared by Arrest,Handgun,2700 WATSON DR,Westover,Other/Unknown,5-2023
+118,20230506-2110-01,43.0,Male,Black,Open,Handgun,5800 OLD PROVIDENCE RD,South,Other/Unknown,5-2023
+119,20230429-0245-02,26.0,Male,Black,Cleared by Arrest,Handgun,100 ATANDO AV,North Tryon,Argument,4-2023
+120,20230417-2134-02,26.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,300 LAKEWOOD AV,Metro,Other/Unknown,4-2023
+121,20230409-1004-01,35.0,Female,White,Cleared by Arrest,"Table Leg, Knife",900 SOUTHWOOD OAKS LN,Independence,Domestic,4-2023
+122,20230404-1536-04,28.0,Male,Black,Cleared by Arrest,Handgun,9500 LUCY JANE LN,Independence,Domestic,4-2023
+123,20230326-1807-01,24.0,Female,Other/Unknown,Cleared by Arrest,Rifle,1000 TERESA LN,North,Domestic,3-2023
+124,20230325-2248-00,20.0,Male,Black,Cleared by Arrest,Firearms,5000 CHERRYCREST LN,Steele Creek,Argument,3-2023
+125,20230324-1826-02,37.0,Male,Black,Open,Firearms,700 W 9TH ST,Central,Other/Unknown,3-2023
+126,20230321-1919-00,25.0,Male,White,Open,"Knife, Physical",4900 MALIBU DR,North Tryon,Argument,3-2023
+127,20230319-2128-01,16.0,Male,Black,Cleared by Arrest,Firearms,4400 THE PLAZA,North Tryon,Drugs,3-2023
+128,20230319-2128-01,21.0,Male,Black,Cleared by Arrest,Firearms,4400 THE PLAZA,North Tryon,Drugs,3-2023
+129,20230319-0538-00,34.0,Male,Hispanic,Cleared by Arrest,Knife,100 KINGSFORD DR,Steele Creek,Argument,3-2023
+130,20230311-2238-01,23.0,Male,Black,Open,Handgun,7000 SOUTH BV,Westover,Argument,3-2023
+131,20230301-1934-02,68.0,Male,Asian,Cleared by Arrest,Vehicle,4300 N SHARON AMITY RD,Hickory Grove,Other/Unknown,3-2023
+132,20230224-0530-00,43.0,Female,Black,Cleared by Arrest,Knife,4600 PERTH CT,North Tryon,Domestic,2-2023
+133,20230219-1557-01,17.0,Male,Black,Cleared by Arrest,Firearm,900 LYNN ST,Freedom,Robbery,2-2023
+134,20230217-1025-00,,Male,Black,Cleared by Arrest,Cutting Instrument,400 N POPLAR ST,Central,Robbery,2-2023
+135,20230213-2347-01,23.0,Female,Black,Exceptionally Cleared,Shotgun,100 W SUMMIT AV,Central,Domestic,2-2023
+136,20230212-1513-00,30.0,Male,Black,Cleared by Arrest,Handgun,2300 BILLY GRAHAM PY,Westover,Argument,2-2023
+137,20230208-0342-01,50.0,Male,Black,Cleared by Arrest,Knife,4600 WILLARD ST,Freedom,Argument,2-2023
+138,20230201-2254-00,37.0,Male,Black,Cleared by Arrest,Handgun,6000 PINEBURR RD,Independence,Other/Unknown,2-2023
+139,20230131-0806-03,32.0,Male,Black,Open,Handgun,600 E 24TH ST,Eastway,Other/Unknown,1-2023
+140,20230129-1401-00,29.0,Male,Hispanic,Open,Firearm,1300 CHOYCE AV,Steele Creek,Other/Unknown,1-2023
+141,20230124-2217-01,30.0,Male,Black,Cleared by Arrest,Handgun,500 W SUGAR CREEK RD,North Tryon,Argument,1-2023
+142,20230115-2137-03,18.0,Male,Hispanic,Open,Rifle,6100 BARRINGTON DR,North Tryon,Other/Unknown,1-2023
+143,20230113-1903-01,28.0,Male,Black,Cleared by Arrest,Handgun,6400 HACKBERRY CREEK TL,North,Drugs,1-2023
+144,20230113-1028-00,21.0,Male,Black,Cleared by Arrest,Handgun,3600 CITISIDE DR,North Tryon,Drugs,1-2023
+145,20230104-1622-01,46.0,Male,Black,Cleared by Arrest,Handgun,600 W 24TH ST,Metro,Drugs,1-2023
+146,20230101-1315-02,28.0,Male,Black,Cleared by Arrest,Handgun,3500 W TYVOLA RD,Westover,Drugs,1-2023
+147,20230101-0250-03,38.0,Male,Hispanic,Open,Handgun,300 BLACKHAWK RD,North Tryon,Other/Unknown,1-2023
+148,20221229-0301-02,33.0,Male,Black,Cleared by Arrest,Firearm,3100 JEFF ADAMS DR,Metro,Other/Unknown,12-2022
+149,20221225-0757-00,30.0,Male,Hispanic,Open,Unknown,3000 BEARD RD,University City,Other/Unknown,12-2022
+150,20221224-0351-00,32.0,Male,Hispanic,Cleared by Arrest,Handgun,2200 REXFORD RD,Providence,Domestic,12-2022
+151,20221221-1048-02,28.0,Male,Black,Open,Handgun,10000 UNIVERSITY VILLAGE BV,University City,Drugs,12-2022
+152,20221217-1656-01,20.0,Female,Black,Cleared by Arrest,Handgun,4300 VALEVIEW LN,North,Other/Unknown,12-2022
+153,20221214-1041-00,20.0,Male,Black,Cleared by Arrest,Handgun,2300 KATHERINE KIKER RD,University City,Other/Unknown,12-2022
+154,20221211-1940-01,,Male,Hispanic,Cleared by Arrest,Knife,6700 N TRYON ST,North Tryon,Other/Unknown,12-2022
+155,20221210-2212-00,32.0,Male,Black,Cleared by Arrest,Handgun,100 TOM HUNTER RD,North Tryon,Argument,12-2022
+156,20221130-1435-02,17.0,Male,Black,Cleared by Arrest,Handgun,2000 LANZA DR,Hickory Grove,Argument,11-2022
+157,20221129-1802-01,20.0,Male,Black,Cleared by Arrest,Handgun,4500 SADLER RD,Freedom,Domestic,11-2022
+158,20221129-1242-01,21.0,Male,Black,Cleared by Arrest,Handgun,2300 RACHEL ST,Metro,Other/Unknown,11-2022
+159,20221126-2221-00,42.0,Male,White,Cleared by Arrest,Handgun,500 SKIPWITH PL,Westover,Argument,11-2022
+160,20221122-1229-05,29.0,Male,Black,Cleared by Arrest,Firearm,4400 S TRYON ST,Westover,Other/Unknown,11-2022
+161,20221115-1900-00,17.0,Male,Hispanic,Cleared by Arrest,Firearm,1800 GRIERS GROVE RD,Metro,Other/Unknown,11-2022
+162,20221115-1900-00,18.0,Male,Hispanic,Cleared by Arrest,Firearm,1800 GRIERS GROVE RD,Metro,Other/Unknown,11-2022
+163,20221107-0836-51,34.0,Male,Black,Cleared by Arrest,Handgun,400 DRURY DR,North Tryon,Argument,11-2022
+164,20221106-0259-53,29.0,Male,Hispanic,Cleared by Arrest by Another Agency,Handgun,4300 CENTRAL AV,Eastway,Argument,11-2022
+165,20221023-1028-02,32.0,Female,Other/Unknown,Cleared by Arrest,Handgun,7100 SNOW LN,Independence,Other/Unknown,10-2022
+166,20221016-0235-01,21.0,Male,Hispanic,Exceptionally Cleared,Handgun,7900 SHADY OAK TL,Steele Creek,Argument,10-2022
+167,20221004-2306-05,21.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,9300 CENTER LAKE DR,North,Argument,10-2022
+168,20221003-2334-01,32.0,Male,Black,Open,Handgun,3800 STATESVILLE AV,Metro,Other/Unknown,10-2022
+169,20221002-2016-01,30.0,Male,Black,Cleared by Arrest,Handgun,8700 GREEN IVY LN,Steele Creek,Domestic,10-2022
+170,20220923-2152-01,56.0,Male,Black,Open,Handgun,12900 DEATON HILL DR,University City,Other/Unknown,9-2022
+171,20220923-1413-00,31.0,Male,Black,Cleared by Arrest,Shotgun,6400 ALBEMARLE RD,Hickory Grove,Argument,9-2022
+172,20220922-2318-01,29.0,Male,White,Open,Handgun,12400 S TRYON ST,University City,Other/Unknown,9-2022
+173,20220830-1945-02,20.0,Male,Hispanic,Open,Handgun,4500 ROSE RIDGE PL,Westover,Drugs,8-2022
+174,20220830-1945-02,18.0,Male,Hispanic,Open,Handgun,4500 ROSE RIDGE PL,Westover,Drugs,8-2022
+175,20220829-1413-01,,Male,White,Cleared by Arrest,Handgun,1400 SHARON RD W,Steele Creek,Robbery,8-2022
+176,20220827-0743-02,25.0,Male,Black,Cleared by Arrest,Handgun,5000 CHERRYCREST LN,Steele Creek,Other/Unknown,8-2022
+177,20220824-0015-00,33.0,Male,Black,Open,Handgun,1100 W SUGAR CREEK RD,North Tryon,Argument,8-2022
+178,20220823-1524-00,25.0,Male,Black,Open,Handgun,600 SAWYERS MILL RD,University City,Other/Unknown,8-2022
+179,20220822-1919-00,35.0,Male,Black,Open,Firearm,3800 MARVIN RD,Providence,Argument,8-2022
+180,20220818-0158-01,26.0,Male,Black,Open,Firearm,8000 S TRYON ST,Steele Creek,Other/Unknown,8-2022
+181,20220813-0204-00,22.0,Male,Black,Open,Handgun,7700 S TRYON ST,Steele Creek,Other/Unknown,8-2022
+182,20220813-0141-00,27.0,Male,Black,Open,Handgun,1700 SUMTER AV,Metro,Other/Unknown,8-2022
+183,20220813-0112-03,23.0,Male,Black,Open,Firearm,7300 W W T HARRIS BV,North,Other/Unknown,8-2022
+184,20220811-1414-00,,Male,Black,Cleared by Arrest,Handgun,3100 SOUTHWEST BV,Metro,Other/Unknown,8-2022
+185,20220805-0135-00,25.0,Male,Black,Cleared by Arrest,Handgun,8900 AVEBURY DR,University City,Robbery,8-2022
+186,20220803-1743-02,31.0,Male,White,Exceptionally Cleared,Handgun,3100 NOBLES AV,Westover,Domestic,8-2022
+187,20220801-1851-00,28.0,Male,White,Open,Handgun,8300 OLD STATESVILLE RD,North,Other/Unknown,8-2022
+188,20220731-2022-00,28.0,Male,Black,Open,Handgun,4800 WALLINGFORD ST,Westover,Argument,7-2022
+189,20220727-2130-02,24.0,Male,Black,Cleared by Arrest by Another Agency,Firearm,2200 MALLARD HIGHLANDS DR,University City,Drugs,7-2022
+190,20220724-0856-02,60.0,Male,White,Open,Physical,4400 RANDOLPH RD,Providence,Argument,7-2022
+191,20220724-0118-02,35.0,Male,Black,Open,Handgun,3400 QUEEN CITY DR,Freedom,Robbery,7-2022
+192,20220722-0505-01,22.0,Male,Black,Cleared by Arrest by Another Agency,Firearm,5600 SHARON POINTE RD,Hickory Grove,Domestic,7-2022
+193,20220719-1354-02,48.0,Male,Black,Open,Handgun,3000 REID AV,Westover,Robbery,7-2022
+194,20220717-0059-01,29.0,Male,Black,Open,Handgun,7300 E INDEPENDENCE BV,Independence,Other/Unknown,7-2022
+195,20220716-0249-02,22.0,Male,Black,Open,Handgun,9500 UNIVERSITY CITY BV,University City,Other/Unknown,7-2022
+196,20220716-0000-00,38.0,Male,Black,Cleared by Arrest,Handgun,6400 N TRYON ST,North Tryon,Other/Unknown,7-2022
+197,20220714-1739-02,23.0,Male,Black,Open,,1100 LONG PAW LN,Freedom,Other/Unknown,7-2022
+198,20220713-0548-00,48.0,Female,White,Cleared by Arrest,Handgun,9600 UNIVERSITY CITY BV,University City,Robbery,7-2022
+199,20220707-0654-00,17.0,Male,Hispanic,Cleared by Arrest,Handgun,3900 SOFLEY RD,North Tryon,Drugs,7-2022
+200,20220705-1645-00,19.0,Male,Black,Cleared by Arrest,Handgun,1700 CAMP GREENE ST,Metro,Robbery,7-2022
+201,20220705-0116-01,27.0,Male,Black,Open,Handgun,9200 WRIGHT HILL RD,University City,Other/Unknown,7-2022
+202,20220627-2156-00,18.0,Male,Black,Open,Handgun,6000 BENNETTSVILLE LN,University City,Other/Unknown,6-2022
+203,20220627-0533-00,34.0,Male,White,Open,Firearm,1600 MERRY OAKS RD,Eastway,Other/Unknown,6-2022
+204,20220626-0255-00,30.0,Male,Hispanic,Exceptionally Cleared,Handgun,7300 NEAL RD,University City,Argument,6-2022
+205,20220625-0144-04,61.0,Female,Black,Cleared by Arrest,Handgun,4100 DINGLEWOOD AV,North Tryon,Other/Unknown,6-2022
+206,20220624-2048-01,19.0,Male,Black,Cleared by Arrest,Handgun,1000 MARGARET BROWN ST,Central,Argument,6-2022
+207,20220621-2019-01,16.0,Male,Hispanic,Cleared by Arrest,Handgun,300 BRANCHVIEW DR,Steele Creek,Argument,6-2022
+208,20220620-2154-03,35.0,Male,White,Cleared by Arrest,Physical,3100 HEATHSTEAD PL,South,Other/Unknown,6-2022
+209,20220611-0900-02,55.0,Male,White,Cleared by Arrest by Another Agency,Handgun,4100 GLENWOOD DR,Metro,Argument,6-2022
+210,20220608-0130-00,33.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,6400 TUCKASEEGEE RD,Freedom,Other/Unknown,6-2022
+211,20220604-1148-00,17.0,Male,Hispanic,Cleared by Arrest,Firearm,5700 LEAKE ST,Westover,Drugs,6-2022
+212,20220604-0009-00,20.0,Male,Black,Open,Handgun,900 BROOKSHIRE FR,Central,Other/Unknown,6-2022
+213,20220603-0548-00,26.0,Male,Black,Cleared by Arrest,Handgun,7900 PHILADELPHIA CT,North,Domestic,6-2022
+214,20220601-0707-02,67.0,Male,Black,Open,Blunt Trauma,4500 SUNSET RD,North,Other/Unknown,6-2022
+215,20220530-2341-01,21.0,Male,Black,Cleared by Arrest,Rifle,5200 CENTRAL AV,Eastway,Argument,5-2022
+216,20220530-2305-00,33.0,Male,Black,Open,Handgun,1100 DEEP ROCK CR,Steele Creek,Argument,5-2022
+217,20220529-1735-02,16.0,Male,Hispanic,Cleared by Arrest,Handgun,8900 FIRST RUN CT,Hickory Grove,Drugs,5-2022
+218,20220519-0047-01,26.0,Male,Hispanic,Open,Handgun,300 BLACKHAWK RD,North Tryon,Other/Unknown,5-2022
+219,20220518-1457-01,44.0,Male,Black,Open,Cutting Instrument,200 E SUGAR CREEK RD,North Tryon,Other/Unknown,5-2022
+220,20220515-2039-00,18.0,Male,Black,Cleared by Arrest,Handgun,3800 MARVIN RD,Providence,Other/Unknown,5-2022
+221,20220514-1817-00,18.0,Male,Black,Cleared by Arrest,Handgun,4700 BEECH CREST PL,North,Robbery,5-2022
+222,20220513-1134-01,,Unknown,Other/Unknown,Open,Handgun,500 BROOKHILL RD,Westover,Other/Unknown,5-2022
+223,20220512-1743-00,26.0,Male,Black,Cleared by Arrest,Firearm,3600 AVALON AV,Metro,Other/Unknown,5-2022
+224,20220508-0021-03,29.0,Male,Black,Open,Handgun,1100 DEEP ROCK CR,Steele Creek,Drugs,5-2022
+225,20220504-1615-02,41.0,Male,Hispanic,Cleared by Arrest,Physical,6300 COUNTRYSIDE DR,North Tryon,Argument,5-2022
+226,20220430-1750-00,,Male,Black,Cleared by Arrest,Firearm,300 W WOODLAWN RD,Westover,Other/Unknown,4-2022
+227,20220429-1915-00,23.0,Male,Black,Exceptionally Cleared,Firearm,700 MONTANA DR,Metro,Argument,4-2022
+228,20220429-1915-00,21.0,Male,Black,Exceptionally Cleared,Firearm,700 MONTANA DR,Metro,Argument,4-2022
+229,20220421-2243-01,29.0,Male,Black,Open,Handgun,3000 MARKLAND DR,Westover,Other/Unknown,4-2022
+230,20220421-0633-00,20.0,Male,Black,Cleared by Arrest,Handgun,7800 RIDING TRAIL RD,Hickory Grove,Argument,4-2022
+231,20220420-2023-01,19.0,Male,Black,Cleared by Arrest,Handgun,9900 NORTHLAKE CENTRE PY,North,Argument,4-2022
+232,20220417-2112-02,39.0,Male,White,Cleared by Arrest,Handgun,1400 METALS DR,North Tryon,Other/Unknown,4-2022
+233,20220415-1327-03,62.0,Female,White,Cleared by Arrest,Screwdriver,3100 SLOAN DR,Freedom,Argument,4-2022
+234,20220410-0201-03,33.0,Male,Black,Open,Firearm,6800 FARTHINGTON CR,Steele Creek,Other/Unknown,4-2022
+235,20220409-1847-00,54.0,Male,Black,Cleared by Arrest,Knife,4500 SHARON CHASE DR,Hickory Grove,Other/Unknown,4-2022
+236,20220329-1135-03,17.0,Male,Black,Cleared by Arrest,Handgun,900 FRANKLIN AV,Metro,Other/Unknown,3-2022
+237,20220325-0349-01,39.0,Male,Hispanic,Open,Handgun,2700 CROSS POINT CR,Independence,Other/Unknown,3-2022
+238,20220321-1427-02,35.0,Male,Black,Cleared by Arrest,Firearm,3600 MARVIN RD,Providence,Other/Unknown,3-2022
+239,20220319-1851-01,48.0,Male,Hispanic,Cleared by Arrest,Physical,5700 E W T HARRIS BV,Hickory Grove,Argument,3-2022
+240,20220315-1816-00,14.0,Male,Black,Open,Handgun,2900 BALTIMORE AV,Westover,Other/Unknown,3-2022
+241,20220314-1916-03,58.0,Male,Black,Cleared by Arrest,Handgun,3100 AVALON AV,Metro,Argument,3-2022
+242,20220312-0909-01,2.0,Male,Other/Unknown,Cleared by Arrest,Physical,6200 PARK RD,South,Domestic,3-2022
+243,20220305-0309-03,48.0,Male,White,Cleared by Arrest,Handgun,10700 HILLGROVE LN,Steele Creek,Other/Unknown,3-2022
+244,20220224-1209-05,66.0,Male,White,Cleared by Arrest,Handgun,600 GLASGOW RD,Freedom,Domestic,2-2022
+245,20220218-2239-01,15.0,Male,Other/Unknown,Cleared by Arrest,Handgun,6700 MALLARD PARK DR,University City,Drugs,2-2022
+246,20220215-1133-00,,Male,Black,Cleared by Arrest,Rifle,1500 LASALLE ST,Metro,Argument,2-2022
+247,20220213-1858-04,36.0,Male,Black,Open,Handgun,1900 MARITA DR,Freedom,Other/Unknown,2-2022
+248,20220213-0622-00,,Female,Black,Cleared by Arrest,Shotgun,1600 SWAN DR,North,Domestic,2-2022
+249,20220211-2134-03,41.0,Male,Hispanic,Cleared by Arrest,Handgun,500 W TRADE ST,Central,Argument,2-2022
+250,20220207-1856-00,24.0,Male,Black,Cleared by Arrest,Vehicle,10300 OLD CONCORD RD,University City,Other/Unknown,2-2022
+251,20220129-2340-03,23.0,Male,Black,Open,Firearms,800 LEIGH AV,Eastway,Drugs,1-2022
+252,20220129-2323-04,50.0,Male,Black,Cleared by Arrest,Handgun,3700 N TRYON ST,North Tryon,Argument,1-2022
+253,20220111-2053-03,47.0,Male,Black,Cleared by Arrest,Vehicle,6400 TUCKASEEGEE RD,Freedom,Other/Unknown,1-2022
+254,20220103-1720-00,28.0,Female,Black,Cleared by Arrest,Vehicle,4300 STATESVILLE RD,North,Other/Unknown,1-2022
+255,20211225-0213-00,28.0,Male,Black,Cleared by Arrest,Firearm,2200 BEATTIES FORD RD,Metro,Argument,12-2021
+256,20211223-0612-00,18.0,Male,Hispanic,Cleared by Arrest,Firearm,1600 DEERGREEN LN,University City,Robbery,12-2021
+257,20211220-1346-00,47.0,Female,Black,Cleared by Arrest,Handgun,1300 LONG GRASS CT,North,Domestic,12-2021
+258,20211220-0008-03,19.0,Male,Black,Cleared by Arrest,Firearm,1100 GOLD RUSH BV,University City,Other/Unknown,12-2021
+259,20211217-2159-03,0.0,Male,Black,Cleared by Arrest,Physical,9600 CORBETT SQUARE LN,North,Domestic,12-2021
+260,20211214-1712-05,46.0,Male,Black,Cleared by Arrest,Firearm,3500 S TRYON ST,Westover,Argument,12-2021
+261,20211210-1704-00,30.0,Male,Black,Cleared by Arrest,Handgun,5900 QUERCUS COVE CT,Steele Creek,Drugs,12-2021
+262,20211207-0021-02,29.0,Male,Black,Cleared by Arrest,Handgun,8600 SWANK PL,North,Other/Unknown,12-2021
+263,20211206-0157-01,41.0,Male,Hispanic,Cleared by Arrest,Handgun,4900 N GRAHAM ST,North Tryon,Other/Unknown,12-2021
+264,20211128-0449-03,34.0,Male,Black,Cleared by Arrest,Handgun,1700 HARLAND ST,North,Argument,11-2021
+265,20211124-2159-01,21.0,Female,Black,Cleared by Arrest,Handgun,6200 ROBUR CT,North,Domestic,11-2021
+266,20211112-2114-01,30.0,Male,Black,Cleared by Arrest,Firearm,1500 N TRYON ST,Metro,Argument,11-2021
+267,20211108-2320-00,35.0,Male,Hispanic,Cleared by Arrest,Handgun,1100 W SUGAR CREEK RD,North Tryon,Other/Unknown,11-2021
+268,20211106-0047-00,17.0,Male,Hispanic,Open,Firearm,8500 N TRYON ST,University City,Other/Unknown,11-2021
+269,20211103-0514-01,17.0,Male,Hispanic,Cleared by Arrest,Handgun,5100 MCALPINE GLEN DR,Independence,Other/Unknown,11-2021
+270,20211030-0006-04,33.0,Male,Black,Cleared by Arrest,Firearm,8200 UNIVERSITY CITY BV,University City,Argument,10-2021
+271,20211024-0217-02,41.0,Male,Black,Cleared by Arrest,Handgun,300 W CARSON BV,Central,Argument,10-2021
+272,20211021-2216-02,46.0,Male,Black,Cleared by Arrest,Handgun,1200 S CALDWELL ST,Providence,Argument,10-2021
+273,20211020-1244-02,40.0,Female,Other/Unknown,Cleared by Arrest,Handgun,1400 SPRING ST,Metro,Argument,10-2021
+274,20211017-1941-01,21.0,Male,Black,Cleared by Arrest,Handgun,1500 REMOUNT RD,Westover,Other/Unknown,10-2021
+275,20211017-1106-03,29.0,Male,Black,Open,Handgun,4500 WYNBROOK WY,North,Other/Unknown,10-2021
+276,20211017-0016-03,42.0,Male,Black,Cleared by Arrest,Handgun,6900 AULTON LINK CT,North,Robbery,10-2021
+277,20211013-2031-02,30.0,Female,Black,Cleared by Arrest,Cutting Instrument,7200 WINERY LN,Hickory Grove,Domestic,10-2021
+278,20211012-2358-02,15.0,Male,Black,Cleared by Arrest,Handgun,600 FAIRWOOD AV,Westover,Other/Unknown,10-2021
+279,20211012-0715-05,30.0,Female,White,Cleared by Arrest,"Cutting Instrument, Stran",1800 J JULIAN LN,Freedom,Robbery,10-2021
+280,20211010-2225-03,20.0,Male,Black,Cleared by Arrest,Handgun,1700 FLAT RIVER DR,University City,Drugs,10-2021
+281,20211009-2254-03,46.0,Male,Hispanic,Open,Handgun,10800 SOUTHERN LOOP BV,Steele Creek,Robbery,10-2021
+282,20211005-2155-00,19.0,Male,Black,Cleared by Arrest,Firearm,3900 FARMINGTON RIDGE PY,University City,Drugs,10-2021
+283,20211004-1259-01,56.0,Female,Black,Cleared by Arrest,Cutting Instrument,2000 VINTON ST,Metro,Drugs,10-2021
+284,20211001-1721-01,35.0,Female,Black,Cleared by Arrest,Handgun,2600 CLYDESDALE TR,Metro,Other/Unknown,10-2021
+285,20210918-0215-01,33.0,Male,Black,Open,Handgun,2900 FORESTBROOK DR,Freedom,Other/Unknown,9-2021
+286,20210912-1126-00,17.0,Male,Black,Open,Shotgun,1500 PRESSLEY RD,Westover,Other/Unknown,9-2021
+287,20210908-1455-01,18.0,Male,Other/Unknown,Exceptionally Cleared,Firearm,1700 WEST BV,Westover,Drugs,9-2021
+288,20210907-2344-02,3.0,Male,Black,Cleared by Arrest,Firearms,2400 RICHARD ROZZELLE DR,North,Other/Unknown,9-2021
+289,20210906-1833-01,27.0,Male,White,Cleared by Arrest,Cutting Instrument,6300 ALBEMARLE RD,Hickory Grove,Other/Unknown,9-2021
+290,20210906-0529-01,29.0,Female,White,Exceptionally Cleared,Blunt Trauma,400 E 22ND ST,Eastway,Other/Unknown,9-2021
+291,20210905-1815-00,16.0,Male,Black,Cleared by Arrest,Firearm,9600 TRINITY RD,North,Other/Unknown,9-2021
+292,20210828-1752-00,58.0,Male,Black,Cleared by Arrest,Rifle,20000 S I-85 HY,North,Argument,8-2021
+293,20210823-0651-00,21.0,Male,Black,Cleared by Arrest,Handgun,1800 TARTAN CT,Independence,Robbery,8-2021
+294,20210821-2317-08,54.0,Male,Black,Cleared by Arrest,Handgun,2100 BROOKSVALE ST,Westover,Argument,8-2021
+295,20210814-0320-00,18.0,Male,Black,Cleared by Arrest,Handgun,1100 W SUGAR CREEK RD,North Tryon,Other/Unknown,8-2021
+296,20210806-1756-02,22.0,Male,Black,Cleared by Arrest,Rifle,7600 HOLLISWOOD CT,Steele Creek,Drugs,8-2021
+297,20210726-0039-00,18.0,Male,Black,Open,Firearm,3100 AVALON AV,Metro,Other/Unknown,7-2021
+298,20210721-2318-01,33.0,Male,Black,Cleared by Arrest,Handgun,1400 PRESSLEY RD,Westover,Drugs,7-2021
+299,20210718-2222-03,34.0,Male,Black,Cleared by Arrest,Handgun,1100 W SUGAR CREEK RD,North Tryon,Other/Unknown,7-2021
+300,20210715-1425-02,25.0,Male,Black,Open,Handgun,9000 NATIONS FORD RD,Steele Creek,Other/Unknown,7-2021
+301,20210713-1208-02,27.0,Male,Black,Cleared by Arrest,Handgun,8000 HARRIS STATION BV,University City,Drugs,7-2021
+302,20210707-2344-03,18.0,Male,Black,Cleared by Arrest,Handgun,6200 TURTLE NECK LN,Hickory Grove,Argument,7-2021
+303,20210707-0329-02,32.0,Female,Black,Open,Rifle,300 W WOODLAWN RD,Westover,Other/Unknown,7-2021
+304,20210704-1541-00,17.0,Male,Black,Cleared by Arrest,Handgun,3100 BANK ST,Westover,Gang,7-2021
+305,20210629-2245-00,20.0,Male,Black,Cleared by Arrest,Firearm,1100 MAYFIELD TERRACE DR,Metro,Other/Unknown,6-2021
+306,20210627-0223-01,31.0,Male,Black,Cleared by Arrest,Handgun,5300 E INDEPENDENCE BV,Independence,Argument,6-2021
+307,20210626-0046-00,31.0,Male,White,Cleared by Arrest,Handgun,5800 WESTPARK DR,Steele Creek,Robbery,6-2021
+308,20210620-0149-01,43.0,Male,Hispanic,Open,Handgun,1700 EASTCREST DR,Eastway,Robbery,6-2021
+309,20210615-0223-00,26.0,Male,Black,Cleared by Arrest,Handgun,5300 WATERWOOD ST,North Tryon,Other/Unknown,6-2021
+310,20210612-0332-01,34.0,Male,Black,Cleared by Arrest,Handgun,2500 N GRAHAM ST,Metro,Argument,6-2021
+311,20210606-0041-01,42.0,Male,Black,Open,Handgun,3500 ELLINGTON ST,Providence,Argument,6-2021
+312,20210603-0829-00,57.0,Male,Black,Cleared by Arrest,Vehicle,3600 BEATTIES FORD RD,Metro,Robbery,6-2021
+313,20210531-0027-00,21.0,Female,Black,Cleared by Arrest,Rifle,5500 TWIN BROOK DR,North,Other/Unknown,5-2021
+314,20210529-1614-00,29.0,Female,Hispanic,Cleared by Arrest,Unknown,3300 BISCAYNE DR,Eastway,Domestic,5-2021
+315,20210524-1715-00,26.0,Male,Black,Cleared by Arrest,Firearm,300 CHARGER CT,University City,Argument,5-2021
+316,20210521-1238-01,16.0,Male,Black,Open,Handgun,7700 S TRYON ST,Steele Creek,Other/Unknown,5-2021
+317,20210521-0410-03,4.0,Female,Black,Cleared by Arrest,Physical,3700 BRADEN DR,North,Domestic,5-2021
+318,20210517-1258-01,,Male,Black,Open,Handgun,2500 CELIA AV,Metro,Argument,5-2021
+319,20210515-0021-00,41.0,Male,Black,Cleared by Arrest,Handgun,1700 FINCHLEY DR,North Tryon,Argument,5-2021
+320,20210513-2123-01,16.0,Male,Black,Cleared by Arrest,Handgun,1800 ALLEN ST,Eastway,Gang,5-2021
+321,20210513-0103-00,22.0,Male,Black,Open,Handgun,2600 FREEDOM DR,Metro,Other/Unknown,5-2021
+322,20210428-0231-00,16.0,Male,Black,Cleared by Arrest,Handgun,4400 ROSE RIDGE PL,Westover,Other/Unknown,4-2021
+323,20210424-0352-00,30.0,Female,Black,Cleared by Arrest,Physical,2700 YORKMONT RD,Steele Creek,Domestic,4-2021
+324,20210421-2035-00,,Male,Black,Cleared by Arrest,Firearm,9000 ALBEMARLE RD,Hickory Grove,Robbery,4-2021
+325,20210420-2117-00,28.0,Male,Black,Cleared by Arrest,Handgun,1000 MCARTHUR AV,Metro,Argument,4-2021
+326,20210418-2009-02,46.0,Male,Black,Open,Firearm,5200 N SHARON AMITY RD,Hickory Grove,Argument,4-2021
+327,20210415-0222-02,28.0,Male,Black,Cleared by Arrest,Firearm,8500 N TRYON ST,University City,Other/Unknown,4-2021
+328,20210414-2321-00,25.0,Male,Black,Cleared by Arrest,Handgun,2800 ROSEMONT ST,Freedom,Argument,4-2021
+329,20210410-1502-00,15.0,Male,Black,Cleared by Arrest,Firearm,2800 TUCKASEEGEE RD,Metro,Gang,4-2021
+330,20210409-1244-02,24.0,Male,Black,Cleared by Arrest,Handgun,8700 PARKLAND CR,Hickory Grove,Other/Unknown,4-2021
+331,20210404-1346-00,29.0,Male,Black,Cleared by Arrest,Firearm,3100 QUEEN CITY DR,Freedom,Other/Unknown,4-2021
+332,20210402-1836-00,35.0,Male,White,Cleared by Arrest,Firearm,3400 WASHBURN AV,Providence,Domestic,4-2021
+333,20210331-2155-01,30.0,Male,Hispanic,Cleared by Arrest,Handgun,7900 OAK MEADOW CT,Steele Creek,Other/Unknown,3-2021
+334,20210329-1848-03,29.0,Male,Black,Cleared by Arrest,Handgun,6400 W SUGAR CREEK RD,University City,Robbery,3-2021
+335,20210328-1036-02,21.0,Female,Black,Cleared by Arrest,Unknown,3100 FAIRBROOK DR,Metro,Other/Unknown,3-2021
+336,20210324-2226-02,21.0,Male,Black,Cleared by Arrest,Handgun,3100 FAIRBROOK DR,Metro,Drugs,3-2021
+337,20210322-1250-03,26.0,Male,Black,Cleared by Arrest,Handgun,3000 TIMBERBROOK DR,Freedom,Argument,3-2021
+338,20210315-0011-01,22.0,Male,Black,Cleared by Arrest,Rifle,7500 KINGS RIDGE DR,Steele Creek,Other/Unknown,3-2021
+339,20210315-0011-01,27.0,Male,Black,Cleared by Arrest,Rifle,7500 KINGS RIDGE DR,Steele Creek,Other/Unknown,3-2021
+340,20210219-1958-03,25.0,Male,Other/Unknown,Cleared by Arrest,Firearm,7600 WATERFORD RIDGE DR,Independence,Robbery,2-2021
+341,20210219-0257-00,23.0,Male,Black,Cleared by Arrest,Handgun,1900 BERRYHILL RD,Metro,Argument,2-2021
+342,20210206-2257-02,16.0,Male,Black,Open,Firearm,6600 E W T HARRIS BV,Hickory Grove,Other/Unknown,2-2021
+343,20210131-1037-01,31.0,Male,Black,Cleared by Arrest,Firearm,5700 WINDY VALLEY DR,Freedom,Other/Unknown,1-2021
+344,20210129-1542-00,28.0,Male,Black,Cleared by Arrest,Handgun,1300 LASALLE ST,Metro,Other/Unknown,1-2021
+345,20210129-1421-02,26.0,Male,Black,Cleared by Arrest,Firearm,8000 RIVERBIRCH DR,Steele Creek,Drugs,1-2021
+346,20210128-2214-02,25.0,Male,Black,Open,Handgun,7900 S I-77 EXIT 3 RA,Steele Creek,Gang,1-2021
+347,20210126-2102-02,20.0,Male,Black,Cleared by Arrest,Handgun,900 W SUGAR CREEK RD,North Tryon,Robbery,1-2021
+348,20210124-0025-00,21.0,Male,Black,Open,Firearm,4000 MERLANE DR,North Tryon,Other/Unknown,1-2021
+349,20210105-1807-01,34.0,Male,Black,Open,Handgun,1500 WEST BV,Westover,Other/Unknown,1-2021
+350,20210104-1348-03,26.0,Female,White,Cleared by Arrest,Vehicle,2000 THE PLAZA,Eastway,Domestic,1-2021
+351,20201228-2122-00,51.0,Male,Black,Cleared by Arrest,Knife,1600 LEDSON CT,Freedom,Argument,12-2020
+352,20201228-2104-00,,Male,Hispanic,Open,Knife,9500 NEWELL-HICKORY GROVE RD,University City,Other/Unknown,12-2020
+353,20201224-2245-02,13.0,Female,Hispanic,Open,Firearm,6600 OLDE SAVANNAH RD,Hickory Grove,Other/Unknown,12-2020
+354,20201224-2245-02,16.0,Female,Hispanic,Open,Firearm,6600 OLDE SAVANNAH RD,Hickory Grove,Other/Unknown,12-2020
+355,20201223-1934-00,50.0,Female,Black,Exceptionally Cleared,Handgun,10100 WOODBERRY TRAIL LN,University City,Other/Unknown,12-2020
+356,20201222-2254-03,30.0,Male,Black,Cleared by Arrest,Firearm,3100 FAIRBROOK DR,Metro,Argument,12-2020
+357,20201222-2205-01,24.0,Male,Black,Open,Handgun,1100 MCALWAY RD,Providence,Other/Unknown,12-2020
+358,20201221-2127-01,31.0,Male,Hispanic,Cleared by Arrest,Rifle,5800 FARM POND LN,Hickory Grove,Argument,12-2020
+359,20201217-2032-01,31.0,Male,Hispanic,Cleared by Arrest,Vehicle,5200 VALCOURT RD,North,Other/Unknown,12-2020
+360,20201213-1855-00,17.0,Male,Black,Cleared by Arrest,Firearm,7100 RED BUD CR,Freedom,Gang,12-2020
+361,20201213-0003-01,23.0,Male,Black,Cleared by Arrest,Firearm,1700 CAROWAY ST,University City,Argument,12-2020
+362,20201212-1921-04,36.0,Male,Black,Open,Handgun,7800 ANDOVER WOODS DR,Steele Creek,Robbery,12-2020
+363,20201130-2058-00,46.0,Male,Hispanic,Cleared by Arrest,Handgun,5700 ELECTRA LN,Independence,Robbery,11-2020
+364,20201129-2333-04,48.0,Male,Black,Cleared by Arrest,Firearm,2800 BUSTLEHEAD CT,University City,Argument,11-2020
+365,20201127-0243-02,42.0,Male,Black,Cleared by Arrest,Handgun,2400 ROZZELLES FERRY RD,Metro,Domestic,11-2020
+366,20201126-2129-00,60.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,300 S GARDNER AV,Metro,Drugs,11-2020
+367,20201120-1413-03,16.0,Male,Black,Cleared by Arrest,Handgun,3000 REID AV,Westover,Other/Unknown,11-2020
+368,20201107-2016-04,16.0,Male,Hispanic,Open,Firearm,100 ORCHARD TRACE LN,North Tryon,Other/Unknown,11-2020
+369,20201106-1917-00,23.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,9700 CAMPUS WALK LN,University City,Drugs,11-2020
+370,20201104-1923-01,37.0,Male,Black,Cleared by Arrest,Handgun,300 MCCULLOUGH DR,University City,Other/Unknown,11-2020
+371,20201030-2332-00,26.0,Male,Black,Exceptionally Cleared,Shotgun,6200 WINGED ELM CT,Independence,Other/Unknown,10-2020
+372,20201028-0914-08,41.0,Male,Black,Cleared by Arrest,Handgun,5300 PRINCESS ST,North Tryon,Other/Unknown,10-2020
+373,20201027-1851-02,30.0,Male,Black,Open,Handgun,1700 PEGRAM ST,Eastway,Other/Unknown,10-2020
+374,20201024-0222-03,22.0,Male,Black,Cleared by Arrest,Handgun,800 POTENZA DR,University City,Other/Unknown,10-2020
+375,20201021-2200-01,21.0,Male,Black,Cleared by Arrest,Handgun,800 FARMHURST DR,Steele Creek,Drugs,10-2020
+376,20201019-1214-02,26.0,Male,Black,Cleared by Arrest,Handgun,2100 KILBORNE DR,Eastway,Other/Unknown,10-2020
+377,20201019-1214-02,27.0,Female,Black,Cleared by Arrest,Handgun,2100 KILBORNE DR,Eastway,Other/Unknown,10-2020
+378,20201016-0409-00,37.0,Male,Black,Cleared by Arrest,Handgun,900 N COLLEGE ST,Central,Other/Unknown,10-2020
+379,20201013-0356-02,41.0,Male,Black,Open,Firearm,2600 CLYDESDALE TR,Metro,Other/Unknown,10-2020
+380,20201012-1813-00,58.0,Male,Black,Cleared by Arrest,Handgun,1200 CAMPUS ST,Metro,Argument,10-2020
+381,20201012-1748-03,21.0,Male,Black,Open,Firearm,5500 W W T HARRIS BV,North,Other/Unknown,10-2020
+382,20201009-2039-02,25.0,Male,Black,Cleared by Arrest,Knife,5300 CHEVAL PL,Eastway,Argument,10-2020
+383,20201009-0341-00,47.0,Male,Black,Open,Firearm,3600 ROZZELLES FERRY RD,Metro,Other/Unknown,10-2020
+384,20201005-2129-01,20.0,Male,Hispanic,Open,Handgun,400 FALLING WATERS CT,University City,Drugs,10-2020
+385,20201001-1240-03,24.0,Male,Other/Unknown,Cleared by Arrest,Handgun,1100 FERN AV,Metro,Argument,10-2020
+386,20200930-1528-00,17.0,Male,Black,Open,Handgun,7400 N TRYON ST,University City,Other/Unknown,9-2020
+387,20200927-2044-00,17.0,Male,Hispanic,Cleared by Arrest,Rifle,6100 N TRYON ST,North Tryon,Robbery,9-2020
+388,20200910-0406-02,32.0,Female,Hispanic,Cleared by Arrest,Handgun,3400 DENSON PL,North Tryon,Domestic,9-2020
+389,20200906-1630-00,28.0,Male,Black,Cleared by Arrest,Firearm,1700 W TRADE ST,Metro,Argument,9-2020
+390,20200904-2143-00,19.0,Male,Hispanic,Cleared by Arrest by Another Agency,Firearm,2800 L D PARKER DR,Metro,Argument,9-2020
+391,20200823-0412-01,62.0,Female,Asian,Cleared by Arrest,Knife,3300 TYRONE DR,North Tryon,Domestic,8-2020
+392,20200822-1541-00,35.0,Male,Black,Cleared by Arrest,Physical,10200 PINTAIL PL,University City,Argument,8-2020
+393,20200821-1721-04,20.0,Male,Black,Cleared by Arrest,Handgun,5300 FIRELIGHT LN,Independence,Drugs,8-2020
+394,20200818-0156-05,37.0,Male,Black,Cleared by Arrest,Rifle,7900 NATIONS FORD RD,Steele Creek,Argument,8-2020
+395,20200818-0016-01,36.0,Female,Black,Cleared by Arrest,Knife,6200 E W T HARRIS BV,Hickory Grove,Domestic,8-2020
+396,20200816-2151-04,29.0,Male,Black,Open,Firearm,2900 REID AV,Westover,Other/Unknown,8-2020
+397,20200816-2151-04,28.0,Male,Black,Open,Firearm,2900 REID AV,Westover,Other/Unknown,8-2020
+398,20200816-2151-04,22.0,Male,Black,Open,Firearm,2900 REID AV,Westover,Other/Unknown,8-2020
+399,20200805-1510-02,18.0,Male,Black,Cleared by Arrest,Firearm,7200 WALLACE LN,Independence,Other/Unknown,8-2020
+400,20200801-1042-04,22.0,Male,Black,Cleared by Arrest,Handgun,7700 S TRYON ST,Steele Creek,Drugs,8-2020
+401,20200729-1603-03,22.0,Male,Black,Cleared by Arrest,Firearm,5200 NEVIN RD,North,Robbery,7-2020
+402,20200728-1829-01,22.0,Male,Black,Cleared by Arrest,Firearm,3000 WESTWINDS CT,North,Domestic,7-2020
+403,20200726-0241-02,23.0,Male,Black,Cleared by Arrest,Knife,6300 MONTEGO DR,North Tryon,Domestic,7-2020
+404,20200725-2204-02,63.0,Female,Black,Open,Handgun,300 W 28TH ST,Metro,Other/Unknown,7-2020
+405,20200724-2058-01,35.0,Male,Black,Cleared by Arrest,Handgun,4000 WILKINSON BV,Freedom,Robbery,7-2020
+406,20200723-0734-00,48.0,Male,White,Cleared by Arrest,Handgun,6000 MCGREGOR DR,Hickory Grove,Argument,7-2020
+407,20200721-1710-00,27.0,Female,White,Cleared by Arrest,Firearm,2800 W SUGAR CREEK RD,University City,Robbery,7-2020
+408,20200721-1420-07,23.0,Male,Black,Cleared by Arrest,Handgun,1700 WEST BV,Westover,Argument,7-2020
+409,20200718-0559-00,25.0,Male,Black,Open,Handgun,6200 BALSAM FIR DR,Independence,Other/Unknown,7-2020
+410,20200716-2348-00,23.0,Male,Black,Open,Firearm,7500 BRAMBLEWOOD DR,Steele Creek,Other/Unknown,7-2020
+411,20200716-1724-01,14.0,Male,Black,Cleared by Arrest,Firearm,2700 ASHLEY RD,Freedom,Other/Unknown,7-2020
+412,20200712-1811-02,21.0,Male,Black,Cleared by Arrest,Firearm,10000 MARGIE ANN DR,University City,Robbery,7-2020
+413,20200712-1504-02,17.0,Male,Black,Cleared by Arrest,Handgun,4000 CUSHMAN ST,North Tryon,Robbery,7-2020
+414,20200711-2137-00,52.0,Male,Black,Cleared by Arrest,Handgun,5700 E W T HARRIS BV,Hickory Grove,Drugs,7-2020
+415,20200709-1556-01,57.0,Male,Black,Cleared by Arrest,Handgun,1100 COLISEUM DR,Eastway,Argument,7-2020
+416,20200706-1128-01,52.0,Male,Black,Cleared by Arrest,Handgun,8800 E W T HARRIS BV,Hickory Grove,Drugs,7-2020
+417,20200630-1330-01,14.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,3200 BEATTIES FORD RD,Metro,Robbery,6-2020
+418,20200629-2341-03,34.0,Male,Black,Open,Firearm,9100 TRINITY RD,North,Other/Unknown,6-2020
+419,20200629-1736-06,44.0,Male,Black,Cleared by Arrest,Handgun,2700 TUCKASEEGEE RD,Metro,Argument,6-2020
+420,20200622-1057-00,21.0,Female,Black,Cleared by Arrest,Handgun,5300 MONTAGUE ST,Providence,Domestic,6-2020
+421,20200622-0026-00,31.0,Male,Black,Open,Firearm,2100 BEATTIES FORD RD,Metro,Other/Unknown,6-2020
+422,20200622-0026-00,29.0,Female,Black,Open,Firearm,2100 BEATTIES FORD RD,Metro,Other/Unknown,6-2020
+423,20200622-0026-00,39.0,Male,Black,Open,Firearm,2100 BEATTIES FORD RD,Metro,Other/Unknown,6-2020
+424,20200622-0026-00,24.0,Male,Black,Open,Firearm,2100 BEATTIES FORD RD,Metro,Other/Unknown,6-2020
+425,20200621-2252-02,24.0,Male,Black,Cleared by Arrest by Another Agency,Firearm,1300 VARSITY LN,University City,Argument,6-2020
+426,20200621-1106-01,33.0,Male,Black,Cleared by Arrest,Handgun,1100 MONA DR,Metro,Argument,6-2020
+427,20200616-2312-00,28.0,Female,Black,Cleared by Arrest,Knife,3500 TAURUS DR,Eastway,Domestic,6-2020
+428,20200612-0151-03,27.0,Male,Black,Open,Handgun,5800 MONROE RD,Independence,Other/Unknown,6-2020
+429,20200610-2140-05,28.0,Male,Black,Cleared by Arrest,Handgun,300 SKYLAND AV,Providence,Other/Unknown,6-2020
+430,20200609-0029-02,24.0,Male,Hispanic,Cleared by Arrest,Physical,2700 COMMONWEALTH AV,Eastway,Drugs,6-2020
+431,20200606-0243-03,21.0,Male,Black,Open,Rifle,6700 NEUHOFF LN,North,Other/Unknown,6-2020
+432,20200603-0049-00,31.0,Male,Black,Cleared by Arrest,Firearm,3400 OAK ARBOR LN,Providence,Domestic,6-2020
+433,20200524-0331-01,44.0,Male,Black,Open,Handgun,6600 RUMPLE RD,University City,Other/Unknown,5-2020
+434,20200523-2103-02,29.0,Male,Black,Cleared by Arrest,Handgun,4500 HOVIS RD,Freedom,Other/Unknown,5-2020
+435,20200518-1707-07,15.0,Male,White,Cleared by Arrest,Handgun,4000 BRIARHILL DR,North Tryon,Robbery,5-2020
+436,20200515-2045-00,39.0,Female,Black,Exceptionally Cleared,Knife,300 HOSKINS MILL LN,Freedom,Domestic,5-2020
+437,20200503-0632-01,41.0,Male,Black,Cleared by Arrest,Handgun,1500 E SUGAR CREEK RD,North Tryon,Other/Unknown,5-2020
+438,20200424-0103-01,17.0,Male,Black,Cleared by Arrest,Handgun,2700 CATALINA AV,Metro,Argument,4-2020
+439,20200423-1520-04,23.0,Male,Asian,Cleared by Arrest,Handgun,8300 UNIVERSITY RIDGE DR,University City,Argument,4-2020
+440,20200408-0725-01,41.0,Male,White,Cleared by Arrest,Handgun,9700 WILLILYN LN,Freedom,Other/Unknown,4-2020
+441,20200407-2132-00,17.0,Male,Black,Exceptionally Cleared,Handgun,6400 HEATHERBROOKE AV,North Tryon,Other/Unknown,4-2020
+442,20200402-2124-01,16.0,Male,Black,Cleared by Arrest,Handgun,1100 MORNINGSIDE DR,Eastway,Drugs,4-2020
+443,20200330-2309-02,20.0,Female,White,Cleared by Arrest,Knife,700 ROLLERTON RD,Eastway,Argument,3-2020
+444,20200328-2102-03,37.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,2200 IRMA ST,Metro,Robbery,3-2020
+445,20200328-2022-00,64.0,Male,Hispanic,Cleared by Arrest,Knife,8800 MONT CARMEL LN,Steele Creek,Domestic,3-2020
+446,20200322-2304-05,20.0,Male,Black,Open,Rifle,5500 ILFORD ST,North Tryon,Other/Unknown,3-2020
+447,20200318-2243-00,25.0,Male,Black,Cleared by Arrest,Handgun,9000 NATIONS FORD RD,Steele Creek,Other/Unknown,3-2020
+448,20200318-0420-01,34.0,Male,Black,Cleared by Arrest,Handgun,100 E WOODLAWN RD,Westover,Argument,3-2020
+449,20200316-2139-05,24.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,2800 HOSTA DR,North,Drugs,3-2020
+450,20200314-2335-01,,Male,Black,Cleared by Arrest,Firearm,3500 GRIFFITH ST,Westover,Other/Unknown,3-2020
+451,20200310-2051-01,43.0,Male,Black,Cleared by Arrest,Handgun,2100 WIT WY,University City,Drugs,3-2020
+452,20200308-1130-00,19.0,Female,White,Cleared by Arrest,Handgun,4000 TUCKASEEGEE RD,Metro,Other/Unknown,3-2020
+453,20200304-2134-01,22.0,Male,Black,Open,Handgun,1200 SARATOGA DR,Freedom,Other/Unknown,3-2020
+454,20200301-1201-00,55.0,Male,Asian,Cleared by Arrest,Handgun,8500 KREFELD DR,Independence,Domestic,3-2020
+455,20200229-0046-00,25.0,Male,Black,Cleared by Arrest,Handgun,100 N CRIGLER ST,Freedom,Gang,2-2020
+456,20200228-1553-04,30.0,Male,Black,Cleared by Arrest,Handgun,3000 AZALEA HILLS DR,University City,Domestic,2-2020
+457,20200222-0203-02,0.0,Male,Black,Cleared by Arrest,Physical,5400 MONROE RD,Independence,Domestic,2-2020
+458,20200217-2006-02,30.0,Female,Black,Cleared by Arrest,Firearm,3200 ROZZELLES FERRY RD,Metro,Other/Unknown,2-2020
+459,20200216-0201-01,32.0,Male,Hispanic,Cleared by Arrest,Handgun,500 DEANNA LN,Steele Creek,Argument,2-2020
+460,20200205-2110-03,37.0,Male,Hispanic,Cleared by Arrest,Handgun,1900 WESTINGHOUSE BV,Steele Creek,Robbery,2-2020
+461,20200202-1655-02,19.0,Male,Black,Cleared by Arrest,Handgun,8800 OLD CONCORD RD,University City,Other/Unknown,2-2020
+462,20200124-2007-04,20.0,Male,Black,Cleared by Arrest,Handgun,200 STONE POST RD,Steele Creek,Argument,1-2020
+463,20200116-0032-04,19.0,Male,Black,Cleared by Arrest,Firearm,800 HOLLAND AV,Metro,Other/Unknown,1-2020
+464,20200114-0848-01,0.0,Male,White,Cleared by Arrest,Physical,2300 N SHARON AMITY RD,Independence,Domestic,1-2020
+465,20200111-0649-03,35.0,Male,Black,Cleared by Arrest,Firearm,5400 CAMBRIDGE BAY DR,University City,Drugs,1-2020
+466,20200111-0649-03,35.0,Female,Black,Cleared by Arrest,Firearm,5400 CAMBRIDGE BAY DR,University City,Drugs,1-2020
+467,20200108-0308-00,43.0,Male,Black,Cleared by Arrest,Firearm,9100 FELDBANK DR,North,Other/Unknown,1-2020
+468,20191224-2054-01,63.0,Male,Black,Cleared by Arrest,Handgun,1500 N TRYON ST,Metro,Argument,12-2019
+469,20191223-2128-02,40.0,Male,Black,Cleared by Arrest,Handgun,6200 ELLIOTT DR,North,Drugs,12-2019
+470,20191221-0648-01,43.0,Male,Black,Cleared by Arrest,Handgun,15000 CAPRICORN LN,South,Domestic,12-2019
+471,20191220-1510-05,56.0,Male,White,Cleared by Arrest,Vehicle,2100 AYRSLEY TOWN BV,Steele Creek,Other/Unknown,12-2019
+472,20191209-0445-02,61.0,Male,White,Cleared by Arrest,Handgun,2700 N BREVARD ST,Eastway,Robbery,12-2019
+473,20191205-1825-01,11.0,Male,Black,Cleared by Arrest,Vehicle,2000 RAMA RD,Independence,Argument,12-2019
+474,20191202-1825-01,49.0,Male,Black,Open,Firearm,5700 BARRINGTON DR,North Tryon,Other/Unknown,12-2019
+475,20191129-2157-01,46.0,Male,Black,Cleared by Arrest,Handgun,7500 PEBBLESTONE DR,Independence,Argument,11-2019
+476,20191128-2137-04,37.0,Female,Black,Cleared by Arrest,Handgun,3300 KRUPA CT,Eastway,Domestic,11-2019
+477,20191126-0541-00,51.0,Male,Black,Cleared by Arrest,Handgun,5800 E W T HARRIS BV,Hickory Grove,Argument,11-2019
+478,20191125-2157-03,19.0,Male,White,Cleared by Arrest,Handgun,8600 UNIVERSITY CITY BV,University City,Drugs,11-2019
+479,20191117-0108-02,27.0,Female,Black,Cleared by Arrest,Handgun,5100 REAGAN DR,North Tryon,Argument,11-2019
+480,20191111-0910-00,79.0,Male,Black,Open,Knife,1700 SPRING FOREST DR,Westover,Other/Unknown,11-2019
+481,20191109-0516-01,40.0,Female,White,Cleared by Arrest,Handgun,2700 LYTHAM DR,South,Argument,11-2019
+482,20191109-0516-01,39.0,Male,Black,Cleared by Arrest,Handgun,2700 LYTHAM DR,South,Argument,11-2019
+483,20191109-0246-02,24.0,Male,Black,Open,Handgun,600 N CHURCH ST,Central,Other/Unknown,11-2019
+484,20191107-1551-00,45.0,Male,Black,Exceptionally Cleared,Knife,12200 PAPERBARK CR,South,Argument,11-2019
+485,20191027-0449-00,20.0,Female,Hispanic,Cleared by Arrest,Handgun,8200 RIVERBIRCH DR,Steele Creek,Domestic,10-2019
+486,20191026-2050-00,58.0,Male,White,Cleared by Arrest,Vehicle,1000 LITTLE ROCK RD,Freedom,Other/Unknown,10-2019
+487,20191025-1954-06,25.0,Male,Black,Open,Handgun,2100 CATHERINE SIMMONS AV,Metro,Other/Unknown,10-2019
+488,20191024-2319-00,29.0,Male,Black,Cleared by Arrest,Firearm,1700 RUSH WIND DR,Metro,Other/Unknown,10-2019
+489,20191021-0919-00,20.0,Male,Black,Cleared by Arrest,Handgun,2200 E W T HARRIS BV,University City,Argument,10-2019
+490,20191020-1703-03,33.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,300 WEST BV,Central,Argument,10-2019
+491,20191019-1840-00,21.0,Male,Black,Open,Handgun,1300 KELSTON PL,Hickory Grove,Other/Unknown,10-2019
+492,20191016-1749-03,61.0,Female,Black,Open,Cutting Instrument,3100 FREEDOM DR,Metro,Other/Unknown,10-2019
+493,20191012-1952-04,19.0,Male,Black,Cleared by Arrest,Firearm,7100 SNOW LN,Independence,Argument,10-2019
+494,20191004-0145-00,48.0,Male,Black,Cleared by Arrest,Vehicle,6300 N US 29 BY-PASS HY,North Tryon,Argument,10-2019
+495,20191003-1641-03,33.0,Male,Black,Cleared by Arrest,Firearm,7600 SHARON LAKES RD,Steele Creek,Argument,10-2019
+496,20190930-1535-02,74.0,Male,White,Cleared by Arrest,Handgun,200 E TRADE ST,Central,Argument,9-2019
+497,20190923-1919-03,58.0,Male,Black,Cleared by Arrest,Razor,700 N SMITH ST,Central,Argument,9-2019
+498,20190922-0236-01,26.0,Male,Black,Open,Handgun,1000 HAMILTON ST,Central,Argument,9-2019
+499,20190919-1914-02,51.0,Female,Black,Cleared by Arrest,"Blunt Trauma, Firearm",3600 FAGAN WY,North,Argument,9-2019
+500,20190916-0041-04,48.0,Male,Black,Open,Handgun,2500 RACHEL ST,Metro,Other/Unknown,9-2019
+501,20190904-0847-01,22.0,Female,Black,Cleared by Arrest,Firearm,3300 BISCAYNE DR,Eastway,Other/Unknown,9-2019
+502,20190831-0052-02,19.0,Male,Black,Open,Handgun,1400 REBECCA BAILEY DR,University City,Other/Unknown,8-2019
+503,20190827-0007-00,53.0,Male,Black,Cleared by Arrest by Another Agency,Firearm,8300 CLASSIC DR,University City,Other/Unknown,8-2019
+504,20190820-1638-02,20.0,Male,Black,Cleared by Arrest,Handgun,1400 W TRADE ST,Metro,Argument,8-2019
+505,20190812-1622-03,28.0,Female,Black,Cleared by Arrest,Handgun,14200 PERUGIA WY,Steele Creek,Domestic,8-2019
+506,20190809-2039-07,19.0,Male,Hispanic,Cleared by Arrest,Handgun,3200 AMITY POINTE RD,Hickory Grove,Argument,8-2019
+507,20190808-2047-02,23.0,Male,Black,Cleared by Arrest,Handgun,1400 VENTURA WAY DR,North Tryon,Robbery,8-2019
+508,20190730-1043-01,1.0,Male,Black,Cleared by Arrest,Physical,200 E WOODLAWN RD,Westover,Domestic,7-2019
+509,20190725-2130-01,17.0,Male,Black,Cleared by Arrest,Handgun,7100 BARRINGTON DR,North Tryon,Drugs,7-2019
+510,20190724-1732-03,44.0,Male,Black,Cleared by Arrest,Handgun,7900 NATIONS FORD RD,Steele Creek,Other/Unknown,7-2019
+511,20190719-0912-03,29.0,Male,Black,Exceptionally Cleared,Firearm,13900 PINYON PINE LN,Hickory Grove,Other/Unknown,7-2019
+512,20190714-0043-02,33.0,Male,Hispanic,Cleared by Arrest,Handgun,5700 ELECTRA LN,Independence,Robbery,7-2019
+513,20190714-0043-02,,Male,Hispanic,Cleared by Arrest,Handgun,5700 ELECTRA LN,Independence,Robbery,7-2019
+514,20190709-1132-01,48.0,Male,Black,Cleared by Arrest,Handgun,9700 SOUTH BV,Steele Creek,Robbery,7-2019
+515,20190704-0842-04,23.0,Female,Black,Cleared by Arrest,Firearm,7200 OAKWINDS CT,North,Domestic,7-2019
+516,20190702-0155-01,35.0,Female,Black,Cleared by Arrest,Knife,10300 GOLD PAN RD,Hickory Grove,Domestic,7-2019
+517,20190701-0936-03,40.0,Male,Black,Open,Handgun,5400 EVANSHIRE DR,North,Other/Unknown,7-2019
+518,20190619-1924-05,22.0,Male,Black,Cleared by Arrest,Handgun,9200 CLIFTON MEADOW DR,Independence,Drugs,6-2019
+519,20190617-1500-02,17.0,Female,Black,Cleared by Arrest,Handgun,2000 BEATTIES FORD RD,Metro,Robbery,6-2019
+520,20190612-0052-02,24.0,Male,Black,Cleared by Arrest,Handgun,300 N GRAHAM ST,Central,Argument,6-2019
+521,20190605-0543-00,16.0,Male,Black,Cleared by Arrest,Handgun,6200 OHAUS CT,North,Other/Unknown,6-2019
+522,20190603-0320-00,50.0,Male,Black,Cleared by Arrest,Handgun,2700 FREEDOM DR,Metro,Robbery,6-2019
+523,20190527-2134-04,43.0,Male,Hispanic,Cleared by Arrest,Physical,8800 ORREN CT,Steele Creek,Argument,5-2019
+524,20190525-1927-01,26.0,Female,Black,Cleared by Arrest,Handgun,1500 CATHERINE SIMMONS AV,Metro,Drugs,5-2019
+525,20190518-0142-00,32.0,Male,Black,Cleared by Arrest,Knife,200 EAST BV,Central,Argument,5-2019
+526,20190509-0746-00,62.0,Female,Black,Cleared by Arrest,Knife,800 N COLLEGE ST,Central,Other/Unknown,5-2019
+527,20190505-2317-02,59.0,Male,Black,Cleared by Arrest,Rifle,3100 WASHBURN AV,Providence,Other/Unknown,5-2019
+528,20190504-2132-01,19.0,Female,Black,Cleared by Arrest,Knife,11600 BENDING BRANCH RD,Hickory Grove,Domestic,5-2019
+529,20190501-1949-04,22.0,Male,Black,Cleared by Arrest,Handgun,9900 UNIVERSITY VILLAGE BV,University City,Argument,5-2019
+530,20190430-1742-02,19.0,Male,White,Cleared by Arrest,Handgun,9200 UNIVERSITY CITY BV,University City,Other/Unknown,4-2019
+531,20190430-1742-02,21.0,Male,White,Cleared by Arrest,Handgun,9200 UNIVERSITY CITY BV,University City,Other/Unknown,4-2019
+532,20190429-2254-01,41.0,Male,Hispanic,Cleared by Arrest,Handgun,5900 SOUTH BV,Westover,Argument,4-2019
+533,20190428-2025-01,30.0,Female,Black,Cleared by Arrest,Handgun,700 YORKMONT RD,Westover,Other/Unknown,4-2019
+534,20190428-1410-01,21.0,Female,Black,Cleared by Arrest,Handgun,7100 SNOW LN,Independence,Argument,4-2019
+535,20190428-1257-04,40.0,Male,Black,Cleared by Arrest,Handgun,1500 CATHERINE SIMMONS AV,Metro,Argument,4-2019
+536,20190426-0329-01,43.0,Male,Hispanic,Cleared by Arrest,Knife,4500 PERTH CT,North Tryon,Argument,4-2019
+537,20190415-0820-03,22.0,Male,Black,Cleared by Arrest,Handgun,6500 THE PLAZA,North Tryon,Drugs,4-2019
+538,20190415-0103-00,20.0,Male,Black,Open,Firearm,4300 HIDDEN VALLEY RD,North Tryon,Drugs,4-2019
+539,20190407-0146-01,29.0,Male,Black,Open,Handgun,6000 DELTA CROSSING LN,Hickory Grove,Argument,4-2019
+540,20190406-2139-02,31.0,Male,Black,Cleared by Arrest,Firearm,7200 BARRINGTON DR,North Tryon,Drugs,4-2019
+541,20190403-1915-00,71.0,Female,Black,Cleared by Arrest,Handgun,1900 NEWLAND RD,Metro,Other/Unknown,4-2019
+542,20190331-0338-00,24.0,Male,White,Cleared by Arrest,Knife,3900 BON-REA DR,South,Other/Unknown,3-2019
+543,20190328-1717-01,27.0,Female,Black,Cleared by Arrest,Firearm,100 E 28TH ST,Metro,Drugs,3-2019
+544,20190325-0829-05,27.0,Male,Black,Cleared by Arrest,Knife,9000 FAIRES RD,University City,Domestic,3-2019
+545,20190323-1347-01,31.0,Male,Black,Cleared by Arrest,Handgun,600 PARKAIRE LN,Westover,Drugs,3-2019
+546,20190318-2010-01,22.0,Male,Black,Cleared by Arrest,"Handgun, Rifle",800 FORTY NINER AV,University City,Drugs,3-2019
+547,20190316-0215-03,20.0,Male,Black,Cleared by Arrest,Handgun,300 W TRADE ST,Central,Other/Unknown,3-2019
+548,20190310-0636-03,28.0,Male,Hispanic,Cleared by Arrest,Handgun,1000 TARA LN,North Tryon,Domestic,3-2019
+549,20190308-2307-00,48.0,Male,Black,Open,Handgun,2700 TUCKASEEGEE RD,Metro,Other/Unknown,3-2019
+550,20190227-2110-01,17.0,Male,Black,Cleared by Arrest,Handgun,600 GRANDIN RD,Metro,Drugs,2-2019
+551,20190227-2110-01,18.0,Male,Black,Cleared by Arrest,Handgun,600 GRANDIN RD,Metro,Drugs,2-2019
+552,20190226-0135-00,31.0,Female,Black,Cleared by Arrest,Handgun,1400 TOM HUNTER RD,North Tryon,Other/Unknown,2-2019
+553,20190224-0353-00,15.0,Female,White,Exceptionally Cleared,Handgun,11400 GLENN ABBEY WY,South,Domestic,2-2019
+554,20190224-0353-00,51.0,Male,White,Exceptionally Cleared,Handgun,11400 GLENN ABBEY WY,South,Domestic,2-2019
+555,20190223-1552-01,21.0,Male,Black,Cleared by Arrest,Firearm,1200 W SUGAR CREEK RD,North Tryon,Argument,2-2019
+556,20190223-0015-00,42.0,Male,Black,Cleared by Arrest,Handgun,200 MATHESON AV,Metro,Argument,2-2019
+557,20190220-0338-01,52.0,Male,Black,Cleared by Arrest,Handgun,4100 TRESEVANT AV,Metro,Argument,2-2019
+558,20190218-0344-00,35.0,Male,Black,Open,"Handgun, Rifle",3000 LITTLE ROCK RD,Freedom,Argument,2-2019
+559,20190217-0139-01,28.0,Male,Black,Cleared by Arrest,Handgun,500 MINUET LN,Westover,Other/Unknown,2-2019
+560,20190209-0026-01,23.0,Male,Black,Cleared by Arrest,Firearm,1000 MCALWAY RD,Providence,Drugs,2-2019
+561,20190128-0422-01,0.0,Female,Black,Cleared by Arrest,Physical,8400 GALENA VIEW DR,North,Domestic,1-2019
+562,20190125-2051-00,22.0,Male,Black,Open,Handgun,7000 LAWYERS RD,Hickory Grove,Other/Unknown,1-2019
+563,20190125-1958-01,63.0,Female,Black,Cleared by Arrest,Rifle,4500 WYNBROOK WY,North,Argument,1-2019
+564,20190114-1058-01,29.0,Male,White,Cleared by Arrest,Handgun,3100 N SHARON AMITY RD,Eastway,Robbery,1-2019
+565,20190112-0540-00,38.0,Male,Black,Cleared by Arrest,Handgun,3000 FORESTBROOK DR,Freedom,Robbery,1-2019
+566,20190106-2102-01,22.0,Male,White,Cleared by Arrest,Handgun,2000 PIMPERNEL RD,University City,Other/Unknown,1-2019
+567,20190104-0734-01,21.0,Male,Black,Cleared by Arrest,Handgun,5000 IDLEWILD RD N,Independence,Argument,1-2019
+568,20190101-0429-01,37.0,Male,Black,Cleared by Arrest,Rifle,3000 PARKWAY AV,Metro,Drugs,1-2019
+569,20190101-0258-00,53.0,Male,Black,Cleared by Arrest,Rifle,8300 HIGHLANDER CT,North,Other/Unknown,1-2019
+570,20181230-2218-02,24.0,Male,Black,Open,Handgun,7600 GWYNNE HILL RD,Hickory Grove,Drugs,12-2018
+571,20181229-2344-02,47.0,Male,White,Cleared by Arrest,Handgun,500 BRIAR CREEK RD,Providence,Other/Unknown,12-2018
+572,20181220-0404-02,29.0,Male,Black,Open,Handgun,1000 DRUID CR,Metro,Drugs,12-2018
+573,20181217-1126-01,22.0,Male,Black,Cleared by Arrest,Handgun,9100 FISHER'S POND DR,South,Other/Unknown,12-2018
+574,20181201-1920-02,,Male,Black,Cleared by Arrest,Firearm,8700 AUTUMN LAKE CT,University City,Drugs,12-2018
+575,20181125-0233-01,25.0,Male,Black,Cleared by Arrest,Handgun,6000 N TRYON ST,North Tryon,Other/Unknown,11-2018
+576,20181120-2037-02,22.0,Male,Black,Cleared by Arrest,Firearm,8900 AVEBURY DR,University City,Drugs,11-2018
+577,20181118-0108-00,56.0,Male,White,Cleared by Arrest,Physical,1300 TINNIN AV,Metro,Other/Unknown,11-2018
+578,20181114-2255-01,30.0,Male,Hispanic,Open,Handgun,2500 ROSEVIEW LN,Eastway,Other/Unknown,11-2018
+579,20181108-1428-02,39.0,Male,Black,Cleared by Arrest,Physical,2400 MULBERRY POND DR,Freedom,Other/Unknown,11-2018
+580,20181104-1525-01,35.0,Female,White,Cleared by Arrest,Physical,13100 BLACK CHESTNUT PL,Steele Creek,Domestic,11-2018
+581,20181019-2344-02,22.0,Male,Black,Cleared by Arrest,Firearm,800 CLANTON RD,Westover,Argument,10-2018
+582,20181019-2054-01,57.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,7100 SNOW LN,Independence,Argument,10-2018
+583,20181017-2322-00,29.0,Female,White,Cleared by Arrest,Handgun,3100 CENTRAL AV,Eastway,Other/Unknown,10-2018
+584,20181009-2102-01,27.0,Male,Black,Open,Firearm,6700 N TRYON ST,North Tryon,Other/Unknown,10-2018
+585,20180923-1902-00,19.0,Male,Black,Cleared by Arrest,Handgun,1200 SARATOGA DR,Freedom,Argument,9-2018
+586,20180922-0236-01,48.0,Female,Black,Cleared by Arrest,Knife,400 HONEYWOOD AV,Metro,Argument,9-2018
+587,20180922-0210-00,44.0,Male,Black,Cleared by Arrest,Handgun,14000 CONLAN CR,South,Argument,9-2018
+588,20180917-2010-00,23.0,Male,Hispanic,Cleared by Arrest,Firearm,1400 BEACON RIDGE RD,Westover,Domestic,9-2018
+589,20180905-0648-01,34.0,Female,Black,Cleared by Arrest,Handgun,1500 NEWCASTLE ST,Metro,Domestic,9-2018
+590,20180903-2013-03,20.0,Male,Black,Open,Firearm,2400 PRUITT ST,Freedom,Other/Unknown,9-2018
+591,20180901-0209-00,44.0,Male,Black,Cleared by Arrest,Handgun,4800 BROOKSHIRE BV,Freedom,Other/Unknown,9-2018
+592,20180831-1610-03,24.0,Male,Black,Cleared by Arrest,Handgun,300 BENJAMIN ST,Westover,Other/Unknown,8-2018
+593,20180826-0131-00,21.0,Male,Black,Open,Handgun,4600 PALM BREEZE LN,Freedom,Argument,8-2018
+594,20180826-0011-02,20.0,Female,Black,Cleared by Arrest,Handgun,500 FAIRWOOD AV,Westover,Other/Unknown,8-2018
+595,20180812-0937-00,23.0,Male,Black,Cleared by Arrest,Knife,3900 FARLOW RD,University City,Domestic,8-2018
+596,20180806-0433-00,20.0,Male,Black,Cleared by Arrest,Handgun,4400 E INDEPENDENCE BV,Providence,Other/Unknown,8-2018
+597,20180725-1001-03,28.0,Male,Black,Cleared by Arrest,Shotgun,100 S SMALLWOOD PL,Metro,Argument,7-2018
+598,20180716-1055-04,19.0,Male,Black,Cleared by Arrest,Handgun,600 E 16TH ST,Eastway,Other/Unknown,7-2018
+599,20180715-0106-03,18.0,Male,Black,Cleared by Arrest,Firearm,1500 CLANTON RD,Westover,Other/Unknown,7-2018
+600,20180710-1319-03,29.0,Male,Black,Cleared by Arrest,Firearm,500 CAMROSE DR,North Tryon,Other/Unknown,7-2018
+601,20180630-1802-06,32.0,Male,Black,Cleared by Arrest,Handgun,100 E MCCULLOUGH DR,University City,Robbery,6-2018
+602,20180621-0648-01,51.0,Male,Hispanic,Cleared by Arrest,Knife,1900 MILTON RD,North Tryon,Other/Unknown,6-2018
+603,20180610-2224-01,54.0,Male,Black,Open,Firearm,1700 JENNINGS ST,Metro,Other/Unknown,6-2018
+604,20180604-1120-02,25.0,Male,Black,Cleared by Arrest,Handgun,1000 W W T HARRIS BV,University City,Other/Unknown,6-2018
+605,20180604-0909-04,18.0,Male,Black,Cleared by Arrest,Firearm,14200 CAROLINA FOREST CT,Steele Creek,Argument,6-2018
+606,20180602-1510-03,40.0,Female,Black,Cleared by Arrest,Physical,300 ARCHDALE DR,Steele Creek,Domestic,6-2018
+607,20180521-0359-00,39.0,Female,Black,Cleared by Arrest,Handgun,900 N TRYON ST,Central,Drugs,5-2018
+608,20180512-2221-03,36.0,Male,Black,Cleared by Arrest,Handgun,6800 ELM FOREST DR,Independence,Other/Unknown,5-2018
+609,20180512-1234-02,19.0,Male,Hispanic,Cleared by Arrest,Firearm,4600 PERTH CT,North Tryon,Robbery,5-2018
+610,20180510-0150-00,27.0,Female,White,Cleared by Arrest,Handgun,10700 POINT SOUTH DR,Steele Creek,Domestic,5-2018
+611,20180507-1441-00,25.0,Male,Black,Cleared by Arrest,Rifle,9300 FELDBANK DR,North,Argument,5-2018
+612,20180420-1648-00,26.0,Male,Other/Unknown,Cleared by Arrest,Handgun,1500 WEMBLEY DR,Eastway,Drugs,4-2018
+613,20180415-2202-01,44.0,Male,White,Cleared by Arrest,Handgun,3000 TIMBERBROOK DR,Freedom,Robbery,4-2018
+614,20180414-1436-00,21.0,Female,Black,Cleared by Arrest,Unknown,8800 EAGLEWIND DR,Independence,Drugs,4-2018
+615,20180405-1603-02,20.0,Male,Hispanic,Cleared by Arrest,Handgun,4200 SOUTH BV,Westover,Other/Unknown,4-2018
+616,20180403-0615-01,36.0,Female,Hispanic,Cleared by Arrest,Handgun,6200 BARRINGTON DR,North Tryon,Robbery,4-2018
+617,20180329-1149-01,20.0,Male,Black,Cleared by Arrest,Handgun,8100 S TRYON ST,Steele Creek,Drugs,3-2018
+618,20180321-2352-02,30.0,Male,Black,Open,Rifle,300 JONES ST,Metro,Other/Unknown,3-2018
+619,20180307-0621-02,37.0,Male,Black,Cleared by Arrest,Firearm,4100 ATMORE ST,North Tryon,Other/Unknown,3-2018
+620,20180202-0949-02,19.0,Male,Black,Cleared by Arrest,Firearm,8600 OLD CONCORD RD,University City,Other/Unknown,2-2018
+621,20180201-2029-00,25.0,Male,Black,Cleared by Arrest,Handgun,300 RHYNE STATION RD,Freedom,Drugs,2-2018
+622,20180120-0001-01,16.0,Male,Black,Open,Handgun,2400 CARMINE ST,Metro,Other/Unknown,1-2018
+623,20180115-1609-01,35.0,Male,Black,Open,Handgun,13300 ASHLEY MEADOW DR,University City,Domestic,1-2018
+624,20180113-1822-00,3.0,Male,Black,Exceptionally Cleared,Unknown,2100 SEBASTIANI DR,Freedom,Domestic,1-2018
+625,20180113-1822-00,7.0,Male,Black,Exceptionally Cleared,Unknown,2100 SEBASTIANI DR,Freedom,Domestic,1-2018
+626,20180111-1344-02,24.0,Female,Black,Exceptionally Cleared,Handgun,4100 CARLYLE DR,Freedom,Domestic,1-2018
+627,20171222-0342-00,50.0,Female,Black,Exceptionally Cleared,Handgun,10800 DAPPLE GREY LN,University City,Domestic,12-2017
+628,20171214-2135-00,39.0,Male,Black,Cleared by Arrest,Firearm,600 BRADFORD DR,Freedom,Other/Unknown,12-2017
+629,20171209-0840-00,37.0,Female,Hispanic,Exceptionally Cleared,Handgun,2200 KILBORNE DR,Eastway,Domestic,12-2017
+630,20171209-0840-00,61.0,Female,Hispanic,Exceptionally Cleared,Handgun,2200 KILBORNE DR,Eastway,Domestic,12-2017
+631,20171209-0321-01,55.0,Male,White,Cleared by Arrest,Firearm,700 WESTINGHOUSE BV,Steele Creek,Robbery,12-2017
+632,20171203-2125-04,23.0,Male,Black,Cleared by Arrest,Handgun,4400 ROADWAY ST,Freedom,Other/Unknown,12-2017
+633,20171120-2257-00,19.0,Male,Black,Open,Firearm,500 BARTON CREEK DR,University City,Other/Unknown,11-2017
+634,20171116-1306-00,41.0,Male,Black,Open,"Rifle, Shotgun",2400 KENDALL DR,Metro,Other/Unknown,11-2017
+635,20171112-2212-01,22.0,Male,Black,Cleared by Arrest,Handgun,1500 WADDELL ST,Metro,Drugs,11-2017
+636,20171104-0340-00,18.0,Male,Black,Cleared by Arrest,Firearm,1800 VILLAGE LAKE DR,Independence,Argument,11-2017
+637,20171024-2314-03,44.0,Male,White,Cleared by Arrest by Another Agency,Handgun,3100 AMITY CT,Hickory Grove,Robbery,10-2017
+638,20171024-2029-00,27.0,Male,Black,Cleared by Arrest,Knife,3000 TIMBERBROOK DR,Freedom,Argument,10-2017
+639,20171020-1249-01,23.0,Female,White,Cleared by Arrest,Strangulation,5600 VIA ROMANO DR,Independence,Domestic,10-2017
+640,20171012-1540-02,24.0,Male,Black,Cleared by Arrest,Handgun,3000 ROMARE BEARDEN DR,Westover,Robbery,10-2017
+641,20171009-2205-01,53.0,Male,Black,Cleared by Arrest,Handgun,2900 BALTIMORE AV,Westover,Argument,10-2017
+642,20171008-2142-01,35.0,Male,Black,Open,Firearm,4200 JOHN PENN CR,North Tryon,Argument,10-2017
+643,20171008-0643-02,29.0,Male,Black,Cleared by Arrest,Firearm,9200 TRINITY RD,North,Other/Unknown,10-2017
+644,20171002-1243-06,21.0,Male,Black,Cleared by Arrest,Handgun,1700 W TRADE ST,Metro,Drugs,10-2017
+645,20170930-1032-03,60.0,Female,Black,Cleared by Arrest,Handgun,400 ORANGE ST,Providence,Domestic,9-2017
+646,20170929-1030-04,19.0,Female,Black,Cleared by Arrest by Another Agency,Unknown,1700 GRIERS GROVE RD,Metro,Other/Unknown,9-2017
+647,20170928-0255-03,31.0,Male,Black,Cleared by Arrest,Handgun,2200 CATHERINE SIMMONS AV,Metro,Argument,9-2017
+648,20170927-2245-02,21.0,Male,Black,Cleared by Arrest,Handgun,7200 E INDEPENDENCE BV,Independence,Argument,9-2017
+649,20170920-2131-01,29.0,Male,Black,Cleared by Arrest,Handgun,2900 DOGWOOD AV,Metro,Argument,9-2017
+650,20170918-1532-00,21.0,Male,White,Open,Firearm,1500 MEDFORD DR,Eastway,Other/Unknown,9-2017
+651,20170912-0300-00,26.0,Male,Black,Cleared by Arrest,Firearm,1400 ROSETTA ST,Metro,Other/Unknown,9-2017
+652,20170902-1311-00,38.0,Male,Black,Open,Handgun,900 N COLLEGE ST,Central,Other/Unknown,9-2017
+653,20170901-1137-03,30.0,Female,Black,Cleared by Arrest,Knife,9300 KINGS PARADE BV,Steele Creek,Domestic,9-2017
+654,20170830-1933-00,31.0,Male,Hispanic,Exceptionally Cleared,Handgun,4000 UPPERGATE LN,North Tryon,Gang,8-2017
+655,20170824-1706-00,22.0,Male,Black,Cleared by Arrest,Handgun,5400 WINDY VALLEY DR,Freedom,Robbery,8-2017
+656,20170821-0315-00,25.0,Male,White,Open,Handgun,6500 OUTER BRIDGE LN,Independence,Robbery,8-2017
+657,20170811-0156-00,,,,Open,,2300 GINGER LN,North Tryon,,8-2017
+658,20170810-1919-00,24.0,Male,Black,Cleared by Arrest,Shotgun,2000 PLEASANT DALE DR,Freedom,Argument,8-2017
+659,20170808-1918-01,25.0,Male,Black,Cleared by Arrest,Firearm,6700 E INDEPENDENCE BV,Independence,Argument,8-2017
+660,20170803-2004-01,43.0,Male,Black,Open,Handgun,3700 MONROE RD,Providence,Other/Unknown,8-2017
+661,20170727-0440-00,65.0,Female,Black,Cleared by Arrest,Unknown,9000 RED CLAY LN,North,Domestic,7-2017
+662,20170727-0440-00,69.0,Male,Black,Cleared by Arrest,Unknown,9000 RED CLAY LN,North,Domestic,7-2017
+663,20170724-2315-01,17.0,Male,Other/Unknown,Cleared by Arrest,Handgun,2000 MCMULLEN WY,Independence,Drugs,7-2017
+664,20170707-0759-01,35.0,Female,White,Cleared by Arrest,Blunt Trauma,5400 DUSTY TRAIL RD,North,Domestic,7-2017
+665,20170703-1959-03,63.0,Male,Black,Cleared by Arrest,Handgun,10600 ATKINS RIDGE DR,University City,Domestic,7-2017
+666,20170702-1159-02,24.0,Male,Black,Cleared by Arrest,Handgun,5300 KIMMERLY WOODS DR,Hickory Grove,Domestic,7-2017
+667,20170624-2243-01,41.0,Male,Hispanic,Open,Handgun,4700 TUCKASEEGEE RD,Freedom,Other/Unknown,6-2017
+668,20170620-2326-01,,Male,Black,Open,Firearm,400 HILO DR,North Tryon,Other/Unknown,6-2017
+669,20170620-2326-01,29.0,Male,Black,Open,Firearm,400 HILO DR,North Tryon,Other/Unknown,6-2017
+670,20170620-2305-00,29.0,Male,Black,Open,Handgun,4600 EASTWYCKE PLACE DR,Hickory Grove,Other/Unknown,6-2017
+671,20170618-1327-01,21.0,Male,White,Cleared by Arrest,Handgun,2300 FARMER ST,Westover,Robbery,6-2017
+672,20170612-1910-00,32.0,Male,Black,Open,Firearm,300 N HOSKINS RD,Freedom,Other/Unknown,6-2017
+673,20170609-2128-00,37.0,Male,Other/Unknown,Cleared by Arrest,Handgun,3200 QUEEN CITY DR,Freedom,Drugs,6-2017
+674,20170607-1903-02,2.0,Male,Black,Cleared by Arrest,Physical,1800 GRIERS GROVE RD,Metro,Domestic,6-2017
+675,20170605-0052-01,24.0,Male,Black,Cleared by Arrest,Handgun,3500 SPRING TERRACE LN,North,Domestic,6-2017
+676,20170604-1555-04,36.0,Male,Black,Cleared by Arrest,Handgun,4500 WYNBROOK WY,North,Argument,6-2017
+677,20170529-2150-00,18.0,Male,Black,Cleared by Arrest,Handgun,100 OREGON ST,Metro,Other/Unknown,5-2017
+678,20170529-0531-00,23.0,Male,Black,Cleared by Arrest,Handgun,5100 REAGAN DR,North Tryon,Argument,5-2017
+679,20170526-2233-02,35.0,Male,Black,Cleared by Arrest,Physical,900 E STONEWALL ST,Central,Robbery,5-2017
+680,20170521-2347-01,47.0,Female,Black,Cleared by Arrest,Arson,6400 LEAFCREST LN,Westover,Domestic,5-2017
+681,20170521-1047-00,44.0,Male,Hispanic,Cleared by Arrest,Unknown,6900 AYRSHIRE GLEN PL,Steele Creek,Robbery,5-2017
+682,20170516-0210-01,30.0,Male,Black,Open,Handgun,2900 BOTANY ST,Metro,Other/Unknown,5-2017
+683,20170503-1339-02,29.0,Female,Black,Exceptionally Cleared,Handgun,1800 CHARLESTON PLACE LN,Independence,Domestic,5-2017
+684,20170426-1746-04,29.0,Male,Black,Open,Handgun,4200 WELLING AV,Freedom,Other/Unknown,4-2017
+685,20170410-0715-02,50.0,Female,Black,Cleared by Arrest,Knife,5500 HUBBARD POINT DR,University City,Other/Unknown,4-2017
+686,20170405-2013-00,19.0,Male,Hispanic,Open,Handgun,3500 SPANISH QUARTER CR,Eastway,Other/Unknown,4-2017
+687,20170405-1425-02,34.0,Female,Black,Cleared by Arrest,Blunt Trauma,12300 VERDANT CT,Steele Creek,Domestic,4-2017
+688,20170402-1105-00,62.0,Female,Black,Cleared by Arrest,"Blunt Trauma, Handgun, Kn",7500 GLENCANNON DR,Hickory Grove,Domestic,4-2017
+689,20170402-1105-00,63.0,Male,Black,Cleared by Arrest,"Blunt Trauma, Handgun, Kn",7500 GLENCANNON DR,Hickory Grove,Domestic,4-2017
+690,20170401-1439-01,25.0,Male,Black,Cleared by Arrest,Handgun,4100 COLEBROOK RD,North Tryon,Robbery,4-2017
+691,20170328-2024-00,29.0,Male,Black,Open,Handgun,1900 CATHERINE SIMMONS AV,Metro,Other/Unknown,3-2017
+692,20170324-0224-02,28.0,Male,Black,Cleared by Arrest,Handgun,1800 PROSPECT DR,North Tryon,Domestic,3-2017
+693,20170322-1324-02,18.0,Male,Black,Cleared by Arrest,Firearm,1400 ALLENBROOK DR,Freedom,Other/Unknown,3-2017
+694,20170321-2052-03,30.0,Male,Black,Cleared by Arrest,Handgun,1000 N WENDOVER RD,Providence,Other/Unknown,3-2017
+695,20170317-0100-01,27.0,Female,Hispanic,Cleared by Arrest,Knife,4500 BIESTERFIELD DR,North,Domestic,3-2017
+696,20170317-0100-01,25.0,Male,Black,Cleared by Arrest,Knife,4500 BIESTERFIELD DR,North,Domestic,3-2017
+697,20170316-0444-00,25.0,Male,Hispanic,Cleared by Arrest,Handgun,6600 FISHER'S FARM LN,South,Robbery,3-2017
+698,20170314-1223-03,37.0,Male,Black,Cleared by Arrest,Handgun,2000 BEATTIES FORD RD,Metro,Domestic,3-2017
+699,20170224-2201-00,22.0,Male,Black,Cleared by Arrest,Shotgun,2400 YORKDALE DR,Steele Creek,Robbery,2-2017
+700,20170222-2214-02,46.0,Male,Black,Cleared by Arrest,Blunt Trauma,5300 EQUIPMENT DR,North Tryon,Argument,2-2017
+701,20170219-2257-01,18.0,Male,White,Cleared by Arrest,Handgun,400 KELFORD LN,Independence,Argument,2-2017
+702,20170215-0220-05,65.0,Male,White,Cleared by Arrest,Handgun,200 W MARTIN LUTHER KING JR BV,Central,Robbery,2-2017
+703,20170214-1755-00,58.0,Male,White,Cleared by Arrest,Firearm,2700 OAKCREST PL,Westover,Drugs,2-2017
+704,20170209-0839-00,18.0,Female,Black,Open,Unknown,6500 WILLOW GATE LN,Hickory Grove,Other/Unknown,2-2017
+705,20170126-1911-02,20.0,Male,Black,Cleared by Arrest,Firearm,8700 MALLARD CREEK RD,University City,Drugs,1-2017
+706,20170117-1336-00,0.0,Male,Black,Cleared by Arrest,Physical,300 HARRISON ST,Metro,Domestic,1-2017
+707,20170113-1632-01,51.0,Male,Black,Open,Firearm,5400 MORNING BREEZE LN,Freedom,Other/Unknown,1-2017
+708,20170112-2205-01,37.0,Male,Black,Cleared by Arrest,Knife,500 BLENDWOOD DR,North Tryon,Domestic,1-2017
+709,20170112-1412-04,45.0,Male,Black,Cleared by Arrest,Handgun,4400 N TRYON ST,North Tryon,Robbery,1-2017
+710,20170104-1910-01,38.0,Male,Black,Open,Handgun,6200 STONEFORT CT,North,Other/Unknown,1-2017
+711,20170103-0148-00,37.0,Female,Black,Cleared by Arrest,Knife,1600 VANCOUVER DR,North Tryon,Other/Unknown,1-2017
+712,20170102-2218-00,14.0,Male,Black,Cleared by Arrest,Handgun,2200 FINCHLEY DR,North Tryon,Other/Unknown,1-2017
+713,20170102-0005-03,22.0,Male,Hispanic,Open,Handgun,6500 MONROE RD,Independence,Drugs,1-2017
+714,20161225-1806-00,33.0,Male,Black,Cleared by Arrest,Firearm,900 N WENDOVER RD,Providence,Other/Unknown,12-2016
+715,20161224-2129-00,4.0,Female,Black,Cleared by Arrest,Blunt Trauma,7800 TIMBER COMMONS LN,Independence,Domestic,12-2016
+716,20161219-1835-01,27.0,Male,Black,Cleared by Arrest,Handgun,2700 CARYA POND LN,Hickory Grove,Argument,12-2016
+717,20161217-0745-01,65.0,Female,White,Cleared by Arrest,Unknown,7400 QUAIL RIDGE DR,South,Other/Unknown,12-2016
+718,20161215-1917-01,21.0,Male,Black,Exceptionally Cleared,Handgun,6500 SPRING GARDEN LN,North Tryon,Domestic,12-2016
+719,20161215-0243-03,26.0,Male,Black,Cleared by Arrest,Shotgun,4400 EDDLEMAN RD,Freedom,Argument,12-2016
+720,20161214-0857-07,19.0,Male,Black,Cleared by Arrest,Handgun,7100 IDLEWILD RD,Independence,Robbery,12-2016
+721,20161207-1834-00,22.0,Male,White,Cleared by Arrest,Firearm,2500 CROSS POINT CR,Independence,Other/Unknown,12-2016
+722,20161130-0755-04,45.0,Male,Black,Open,Handgun,3100 THE PLAZA,Eastway,Other/Unknown,11-2016
+723,20161129-0330-01,38.0,Male,Black,Cleared by Arrest,Knife,1500 N TRYON ST,Metro,Argument,11-2016
+724,20161127-0327-01,34.0,Male,Black,Cleared by Arrest,Handgun,100 ATANDO AV,North Tryon,Argument,11-2016
+725,20161122-2303-00,22.0,Male,Hispanic,Cleared by Arrest,Handgun,6500 THE PLAZA,North Tryon,Argument,11-2016
+726,20161120-2254-04,36.0,Male,Black,Open,Firearm,6200 ROCKLAKE DR,Freedom,Robbery,11-2016
+727,20161115-1511-02,32.0,Female,Black,Cleared by Arrest,Knife,5900 SOUTH BV,Westover,Domestic,11-2016
+728,20161113-1441-04,15.0,Male,Black,Cleared by Arrest,Handgun,8000 SHERINGTON WY,Hickory Grove,Other/Unknown,11-2016
+729,20161112-0219-00,33.0,Male,Black,Cleared by Arrest,Firearm,2800 WEST BV,Westover,Argument,11-2016
+730,20161109-1707-03,27.0,Male,Black,Cleared by Arrest,Handgun,5900 FAIRMARKET PL,North Tryon,Domestic,11-2016
+731,20161105-1428-01,19.0,Male,Black,Cleared by Arrest,Handgun,2200 WEST BV,Westover,Argument,11-2016
+732,20161105-0347-02,43.0,Male,Black,Open,Firearm,2000 E INDEPENDENCE BV,Eastway,Other/Unknown,11-2016
+733,20161026-1522-03,27.0,Female,Black,Cleared by Arrest,Handgun,900 N TRYON ST,Central,Argument,10-2016
+734,20161020-1823-03,27.0,Male,Black,Cleared by Arrest,Handgun,13500 ARMOUR RIDGE DR,Steele Creek,Argument,10-2016
+735,20161019-0324-01,48.0,Male,Black,Open,Handgun,5400 DATHA AV,North,Other/Unknown,10-2016
+736,20161015-0247-00,26.0,Female,White,Open,Handgun,1300 THE PLAZA,Eastway,Other/Unknown,10-2016
+737,20161011-1711-01,29.0,Female,Black,Open,Handgun,200 E W T HARRIS BV,University City,Domestic,10-2016
+738,20161005-0059-00,64.0,Male,Black,Cleared by Arrest,Blunt Trauma,900 N TRYON ST,Central,Drugs,10-2016
+739,20160927-2012-00,45.0,Male,White,Cleared by Arrest,Blunt Trauma,2500 PINCKNEY AV,Eastway,Argument,9-2016
+740,20160921-2031-03,26.0,Male,Black,Cleared by Arrest,Handgun,100 E TRADE ST,Central,Other/Unknown,9-2016
+741,20160918-0604-00,32.0,Male,Black,Open,Firearm,3700 BROOKSHIRE BV,Freedom,Other/Unknown,9-2016
+742,20160916-1022-00,35.0,Male,Black,Cleared by Arrest,Rifle,4400 HUBBARD RD,University City,Argument,9-2016
+743,20160912-2344-00,40.0,Male,White,Cleared by Arrest,Handgun,500 CLANTON RD,Westover,Other/Unknown,9-2016
+744,20160909-2333-00,33.0,Female,Asian,Cleared by Arrest,Handgun,100 E PARK AV,Central,Robbery,9-2016
+745,20160822-0255-00,20.0,Female,White,Cleared by Arrest,Handgun,6700 PINEVILLE-MATTHEWS RD,South,Domestic,8-2016
+746,20160820-2101-01,35.0,Male,Black,Cleared by Arrest,Handgun,8100 S TRYON ST,Steele Creek,Drugs,8-2016
+747,20160816-1649-00,49.0,Male,Black,Cleared by Arrest,Knife,300 PLYMOUTH AV,Metro,Argument,8-2016
+748,20160813-0034-03,31.0,Male,Black,Cleared by Arrest,Handgun,6900 OLDE SAVANNAH RD,Hickory Grove,Argument,8-2016
+749,20160806-0533-00,38.0,Male,Black,Cleared by Arrest,Handgun,8200 CHESTHUNT PLACE DR,University City,Domestic,8-2016
+750,20160725-2335-01,2.0,Male,Black,Cleared by Arrest,Blunt Trauma,4900 FARM POND LN,Hickory Grove,Domestic,7-2016
+751,20160724-1546-01,32.0,Male,Black,Open,Blunt Trauma,5600 PRESCOTT CT,University City,Other/Unknown,7-2016
+752,20160724-0300-00,53.0,Female,Hispanic,Cleared by Arrest,Knife,6400 WOODBEND DR,Hickory Grove,Domestic,7-2016
+753,20160718-0802-01,46.0,Female,Black,Cleared by Arrest,Knife,2400 KENDALL DR,Metro,Other/Unknown,7-2016
+754,20160715-0609-00,34.0,Male,Black,Cleared by Arrest,Knife,4200 STATESVILLE RD,North,Argument,7-2016
+755,20160712-2358-01,41.0,Male,Black,Open,Firearm,4400 RIDGEVALLEY DR,Freedom,Robbery,7-2016
+756,20160706-0318-00,31.0,Male,Black,Cleared by Arrest,Firearm,600 GRANDIN RD,Metro,Drugs,7-2016
+757,20160705-0641-00,22.0,Male,Black,Open,Handgun,1900 NEWCASTLE ST,Metro,Other/Unknown,7-2016
+758,20160704-0131-00,19.0,Male,Black,Cleared by Arrest,Handgun,3600 WHEATLEY AV,Providence,Other/Unknown,7-2016
+759,20160624-0000-01,30.0,Male,Black,Cleared by Arrest,Rifle,2800 TUCKASEEGEE RD,Metro,Argument,6-2016
+760,20160618-1736-02,27.0,Female,White,Cleared by Arrest,"Arson, Strangulation",12100 TOSCANA WY,Steele Creek,Other/Unknown,6-2016
+761,20160611-0253-01,20.0,Male,Black,Exceptionally Cleared,Handgun,4000 COLLEGIATE AV,University City,Argument,6-2016
+762,20160609-0857-03,79.0,Female,White,Cleared by Arrest,Handgun,7900 LANGFORD CT,Hickory Grove,Other/Unknown,6-2016
+763,20160530-1910-01,46.0,Male,Black,Cleared by Arrest,Handgun,9500 PINNACLE DR,University City,Drugs,5-2016
+764,20160527-0125-00,34.0,Male,Black,Cleared by Arrest,Handgun,4400 JOHN PENN CR,North Tryon,Other/Unknown,5-2016
+765,20160525-0355-00,36.0,Male,White,Cleared by Arrest,Strangulation,6000 CATTAIL CT,Hickory Grove,Domestic,5-2016
+766,20160507-1616-02,24.0,Male,Black,Cleared by Arrest,Handgun,4400 JOHN PENN CR,North Tryon,Other/Unknown,5-2016
+767,20160507-0439-00,28.0,Male,Black,Cleared by Arrest,Handgun,4800 MAGNASCO LN,Freedom,Argument,5-2016
+768,20160424-2346-01,0.0,Female,Black,Cleared by Arrest,Blunt Trauma,9300 WINTER ELM LN,Hickory Grove,Domestic,4-2016
+769,20160407-0518-02,40.0,Male,Black,Cleared by Arrest,Handgun,1200 HELMS RD,Freedom,Argument,4-2016
+770,20160331-2323-00,21.0,Male,Black,Open,Handgun,4100 ATMORE ST,North Tryon,Drugs,3-2016
+771,20160331-0357-00,19.0,Male,Black,Cleared by Arrest,Handgun,2500 N GRAHAM ST,Metro,Other/Unknown,3-2016
+772,20160327-1432-01,46.0,Male,Black,Open,Handgun,4800 CHASTAIN AV,Westover,Other/Unknown,3-2016
+773,20160322-2053-01,26.0,Male,Black,Cleared by Arrest,Handgun,4500 WESTRIDGE DR,Freedom,Argument,3-2016
+774,20160319-1349-00,27.0,Male,Black,Cleared by Arrest,Handgun,1700 DONALD ROSS RD,Westover,Drugs,3-2016
+775,20160319-1047-00,,,,Open,,4900 CENTRAL AV,Eastway,,3-2016
+776,20160310-1204-01,24.0,Male,Black,Open,Handgun,8300 PARKLAND CR,Hickory Grove,Argument,3-2016
+777,20160305-1053-01,35.0,Male,White,Exceptionally Cleared,Handgun,4800 CARRIAGE DRIVE CR,Eastway,Other/Unknown,3-2016
+778,20160207-0240-01,29.0,Male,Black,Cleared by Arrest,Handgun,400 E 4TH ST,Central,Argument,2-2016
+779,20160114-1217-00,67.0,Male,Black,Open,Unknown,2400 COLUMBUS CR,Metro,Other/Unknown,1-2016
+780,20160103-0016-00,45.0,Male,Black,Cleared by Arrest,Handgun,2200 BEATTIES FORD RD,Metro,Argument,1-2016
+781,20151230-1628-04,34.0,Male,Black,Cleared by Arrest,Handgun,6600 WOODLAND CR,North,Robbery,12-2015
+782,20151223-0043-00,54.0,Male,Black,Cleared by Arrest,Handgun,3800 BROOKSHIRE BV,Freedom,Argument,12-2015
+783,20151220-1434-00,16.0,Female,Black,Cleared by Arrest,Handgun,1600 VANCOUVER DR,North Tryon,Other/Unknown,12-2015
+784,20151204-1028-00,28.0,Male,Black,Cleared by Arrest,Handgun,9500 CHINA GROVE CHURCH RD,Steele Creek,Gang,12-2015
+785,20151204-1028-00,30.0,Male,Black,Cleared by Arrest,Handgun,9500 CHINA GROVE CHURCH RD,Steele Creek,Gang,12-2015
+786,20151204-1028-00,29.0,Male,Black,Cleared by Arrest,Handgun,9500 CHINA GROVE CHURCH RD,Steele Creek,Gang,12-2015
+787,20151202-2222-01,35.0,Female,White,Cleared by Arrest,Handgun,4800 SHAMROCK DR,Hickory Grove,Robbery,12-2015
+788,20151112-1648-08,31.0,Male,Black,Open,Handgun,1300 SEIGLE AV,Eastway,Other/Unknown,11-2015
+789,20151028-2115-02,22.0,Male,Black,Cleared by Arrest,Handgun,7300 CREEKWOOD QUORUM DR,Independence,Drugs,10-2015
+790,20151028-1253-01,53.0,Female,Black,Cleared by Arrest,Physical,300 STATE ST,Metro,Domestic,10-2015
+791,20151024-2221-00,28.0,Male,Black,Cleared by Arrest,Handgun,6000 THE PLAZA,North Tryon,Argument,10-2015
+792,20151017-2310-00,29.0,Male,Black,Cleared by Arrest,Handgun,3800 DAVIS AV,Freedom,Argument,10-2015
+793,20151015-1409-01,23.0,Male,Black,Exceptionally Cleared,"Handgun, Shotgun",5900 THE PLAZA,North Tryon,Argument,10-2015
+794,20151007-1222-03,25.0,Male,Black,Cleared by Arrest,Handgun,1800 GRIERS GROVE RD,Metro,Domestic,10-2015
+795,20151002-2128-01,23.0,Female,Black,Cleared by Arrest,Handgun,3100 NOBLES AV,Westover,Domestic,10-2015
+796,20150930-0016-01,23.0,Male,Black,Cleared by Arrest,Handgun,6100 COOLBROOK CT,Westover,Domestic,9-2015
+797,20150927-1905-04,41.0,Male,Black,Cleared by Arrest,Handgun,2300 VANDERBILT RD,Metro,Drugs,9-2015
+798,20150919-2200-02,37.0,Female,White,Exceptionally Cleared,Handgun,5600 MT HOLLY-HUNTERSVILLE RD,North,Domestic,9-2015
+799,20150919-1947-00,26.0,Male,Black,Cleared by Arrest,Handgun,5400 LANTANA AV,Independence,Domestic,9-2015
+800,20150910-1543-04,42.0,Male,Black,Open,Handgun,300 OREGON ST,Metro,Other/Unknown,9-2015
+801,20150906-0729-01,30.0,Male,Hispanic,Cleared by Arrest,Handgun,1100 GLENFIDDICH DR,North Tryon,Robbery,9-2015
+802,20150906-0013-04,30.0,Female,Black,Open,"Handgun, Rifle",500 ECHODALE DR,Steele Creek,Other/Unknown,9-2015
+803,20150905-2051-00,7.0,Male,Hispanic,Open,Rifle,6800 FIELDVALE PL,Steele Creek,Other/Unknown,9-2015
+804,20150905-0444-00,25.0,Male,Black,Exceptionally Cleared,Handgun,4100 NORTHPOINTE INDUSTRIAL BV,North,Argument,9-2015
+805,20150905-0444-00,23.0,Male,Black,Exceptionally Cleared,Handgun,4100 NORTHPOINTE INDUSTRIAL BV,North,Argument,9-2015
+806,20150824-0311-00,24.0,Male,Black,Cleared by Arrest,Handgun,1300 LASALLE ST,Metro,Other/Unknown,8-2015
+807,20150820-1043-03,47.0,Male,White,Cleared by Arrest,Blunt Trauma,7500 BONDHAVEN DR,Hickory Grove,Other/Unknown,8-2015
+808,20150818-1534-05,33.0,Male,Black,Cleared by Arrest,Handgun,400 SKYLAND AV,Providence,Domestic,8-2015
+809,20150809-0734-01,19.0,Male,Black,Open,Handgun,1000 MALLARD OAKS DR,University City,Other/Unknown,8-2015
+810,20150802-1328-00,27.0,Male,Black,Cleared by Arrest,Handgun,500 BLENDWOOD DR,North Tryon,Drugs,8-2015
+811,20150722-0440-00,23.0,Male,Black,Open,Handgun,2700 BOTANY ST,Metro,Other/Unknown,7-2015
+812,20150719-1545-01,64.0,Male,White,Cleared by Arrest,Unknown,16500 PLANTATION WOODS DR,Steele Creek,Other/Unknown,7-2015
+813,20150715-0149-03,36.0,Male,Black,Cleared by Arrest,Knife,300 CHERRY ST,Providence,Domestic,7-2015
+814,20150715-0020-00,34.0,Male,Black,Cleared by Arrest,"Handgun, Rifle",200 SELDON DR,Metro,Other/Unknown,7-2015
+815,20150617-2220-02,,,,Open,,1800 FINCHLEY DR,North Tryon,,6-2015
+816,20150609-2355-03,26.0,Male,Black,Cleared by Arrest,Handgun,4100 ATMORE ST,North Tryon,Robbery,6-2015
+817,20150609-2355-03,23.0,Female,Black,Cleared by Arrest,Handgun,4100 ATMORE ST,North Tryon,Robbery,6-2015
+818,20150429-1600-01,40.0,Male,Black,Exceptionally Cleared,Handgun,2300 ST JOHNS CHURCH RD,North Tryon,Argument,4-2015
+819,20150428-0706-02,39.0,Female,Black,Exceptionally Cleared,"Arson, Physical",12100 HARPLEY CT,Hickory Grove,Domestic,4-2015
+820,20150426-1348-03,37.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,8800 N TRYON ST,University City,Other/Unknown,4-2015
+821,20150420-2259-03,33.0,Male,Black,Cleared by Arrest,Rifle,2400 JULIA AV,Metro,Argument,4-2015
+822,20150407-0007-00,22.0,Male,Black,Cleared by Arrest,Knife,1200 W SUGAR CREEK RD,North Tryon,Argument,4-2015
+823,20150405-1028-02,29.0,Female,Black,Exceptionally Cleared,Handgun,4600 PERTH CT,North Tryon,Domestic,4-2015
+824,20150331-1633-00,43.0,Male,White,Cleared by Arrest,Handgun,4400 RIDGEVALLEY DR,Freedom,Argument,3-2015
+825,20150327-0523-01,28.0,Male,Black,Open,Handgun,1500 ELSWICK LN,Freedom,Other/Unknown,3-2015
+826,20150308-1255-03,24.0,Female,White,Cleared by Arrest,Strangulation,8300 CARTER CREEK DR,Independence,Domestic,3-2015
+827,20150301-2001-04,27.0,Male,Black,Cleared by Arrest by Another Agency,Handgun,3000 TIMBER HOLLOW DR,Eastway,Other/Unknown,3-2015
+828,20150227-1254-04,23.0,Male,Black,Cleared by Arrest,Handgun,1500 NEWCASTLE ST,Metro,Argument,2-2015
+829,20150225-1817-02,68.0,Female,White,Exceptionally Cleared,Handgun,8700 FARMWOOD CT,Freedom,Domestic,2-2015
+830,20150224-1721-02,21.0,Male,Hispanic,Cleared by Arrest,Handgun,700 NORRIS AV,Metro,Drugs,2-2015
+831,20150224-1721-02,19.0,Female,White,Cleared by Arrest,Handgun,700 NORRIS AV,Metro,Drugs,2-2015
+832,20150224-1721-02,23.0,Male,Hispanic,Cleared by Arrest,Handgun,700 NORRIS AV,Metro,Drugs,2-2015
+833,20150129-1706-04,25.0,Male,White,Open,Blunt Trauma,100 WADSWORTH PL,Metro,Other/Unknown,1-2015
+834,20150128-2008-01,19.0,Male,Black,Cleared by Arrest,Handgun,7700 S TRYON ST,Steele Creek,Argument,1-2015
+835,20150120-2306-01,24.0,Male,Black,Cleared by Arrest,Handgun,7100 WALLACE RD,Independence,Drugs,1-2015
+836,20150108-1101-05,44.0,Female,White,Cleared by Arrest,Handgun,200 WEST AV,Freedom,Drugs,1-2015
+837,20150108-1101-05,52.0,Male,White,Cleared by Arrest,Handgun,200 WEST AV,Freedom,Drugs,1-2015
+838,20150106-0420-00,0.0,Male,Hispanic,Cleared by Arrest,Physical,2200 CANTERWOOD DR,North Tryon,Domestic,1-2015
+839,20150105-1627-03,26.0,Male,Black,Cleared by Arrest,Handgun,3100 TIMBERBROOK DR,Freedom,Argument,1-2015
+840,20150101-0401-00,37.0,Male,Black,Open,Handgun,200 FAIRWOOD AV,Westover,Other/Unknown,1-2015
